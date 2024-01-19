@@ -1,4 +1,4 @@
-site_name: lernOS Congention 2024
+site_name: lernOS Convention 2024
 site_url: https://cogneon.github.io/cogneon/loscon24
 docs_dir: src
 site_dir: docs
@@ -7,8 +7,17 @@ edit_uri: ""
 nav:
 - Startseite: index.md
 - Kommunikation: communication.md
-- Programm: program.md
+- Anreise: getting-there.md
 - Vorabend: eve.md
+- Lokation: location.md
+- Programm: program.md
+- Abendprogramm: party.md
+- Archiv: archive.md
+- Toolset:
+  - Discord: discord.md
+  - Hybrid Meeting Kit: hmk.md
+- Orga:
+  - Orga-Team: orga-team.md
 
 theme:
     name: readthedocs
