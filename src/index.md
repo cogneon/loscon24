@@ -2,6 +2,17 @@
 
 Das sind die Infoseiten zur [lernOS Convention 2024](https://cogneon.de/loscon24). Die Tickets für Vor-Ort- und Online-Teilnahme sind [über den Ticketshop](https://pretix.eu/cogneon/loscon24/) verfügbar. Hier werdet ihr alle Infos zur Veranstaltung finden.
 
-> **_HINWEIS:_**  Die Infoseiten befinden sich noch im Aufbau. Die Inhalte können sich jederzeit ändern und noch falsche Informationen enthalten.
+# Wichtige Termine
+- **19.01.:** Golive Website cogneon.de/loscon24 und Ticketshop
+- **26.01.:** Orga-Team Call for Participation (13:00 - 14:00 Uhr, Info-Termin für alle, die mit dem Gedanken spielen, in der Orga mitzuhelfen)
+- **02.02.:** Start der Orga-Calls des loscon24 Teams (jeweils Freitags, 10:00 - 11:00 Uhr)
+- **29.02.:** Ende der Anmeldephase für Gutscheine Leitfaden-Teams
+- **04.03.:** Golive Call for Participation (Einreichung von Programmvorschlägen)
+- **06.05.-21.06.:** lernOS Künstliche Intelligenz (KI) MOOC ([Voranmeldung](https://www.meetup.com/de-DE/cogneon/events/297769514/))
+- **25.06.:** Vorab-Webkonferenz (13:00 - 14:00 Uhr)
+- **02.-03.07.:** lernOS Convention 2024
+- **12.07.:** loscon24 Retro (10:00 - 11:00 Uhr)
+
+> **_HINWEIS:_**  Die Infoseiten befinden sich noch im Aufbau. Die Inhalte können sich jederzeit ändern und noch unvollständige/falsche Informationen enthalten.
 
 ![](https://media4.giphy.com/media/Pk9ThuWSq6zIGKQBkB/giphy.gif?cid=ecf05e4735pxa1z6mz3a835k18kn4c1fa7hbdfo7vo6nykop&ep=v1_gifs_search&rid=giphy.gif&ct=g)
