@@ -7,11 +7,13 @@ edit_uri: ""
 nav:
 - Startseite: index.md
 - Kommunikation: communication.md
+- Vorab-Webkonferenz: pre-call.md
 - Anreise: getting-there.md
 - Vorabend: eve.md
 - Lokation: location.md
 - Programm: program.md
 - Abendprogramm: party.md
+- Netzwerk: network.md
 - Auf-/Abbau: logistics.md
 - Badge: badge.md
 - Archiv: archive.md
