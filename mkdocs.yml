@@ -15,17 +15,18 @@ nav:
 - Dezentrale Lokationen: loscon-everywhere.md
 - Programm: program.md
 - Abendprogramm: party.md
-- Netzwerk: network.md
-- Auf-/Abbau: logistics.md
+- Barrierefreiheit: accessibility.md
 - Badge: badge.md
 - Archiv: archive.md
 - FAQ: faq.md
 - Toolset:
+  - Netzwerk: network.md
   - Discord: discord.md
   - Hybrid Meeting Kit: hmk.md
 - Orga:
   - Orga-Team: orga-team.md
   - Design: design.md
+  - Auf-/Abbau: logistics.md
 
 theme:
     name: readthedocs
