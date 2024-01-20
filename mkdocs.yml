@@ -18,6 +18,7 @@ nav:
   - Hybrid Meeting Kit: hmk.md
 - Orga:
   - Orga-Team: orga-team.md
+  - Design: design.md
 
 theme:
     name: readthedocs
