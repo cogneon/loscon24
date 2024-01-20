@@ -13,7 +13,9 @@ nav:
 - Programm: program.md
 - Abendprogramm: party.md
 - Auf-/Abbau: logistics.md
+- Badge: badge.md
 - Archiv: archive.md
+- FAQ: faq.md
 - Toolset:
   - Discord: discord.md
   - Hybrid Meeting Kit: hmk.md
@@ -24,7 +26,7 @@ nav:
 theme:
     name: readthedocs
     locale: de
-    logo: images/loscon24-badge.png
+    logo: img/loscon24-badge.png
 
 repo_name: 'cogneon/loscon24'
 repo_url: 'https://github.com/cogneon/loscon24'
