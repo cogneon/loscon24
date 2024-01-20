@@ -12,6 +12,7 @@ Das Orga-Team hat ab dem 02.02.2024 einen **wöchentlichen Orga-Call** jeweils *
 # Orga-Team Mitglieder
 
 1. Benedikt Scheerer
+1. Christian Kaiser
 1. Frank Gerich
 1. Magnus Rode
 1. Nicole Denzel
