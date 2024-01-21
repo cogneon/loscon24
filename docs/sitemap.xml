@@ -26,7 +26,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cogneon.github.io/cogneon/loscon24/bom/</loc>
+         <lastmod>2024-01-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cogneon.github.io/cogneon/loscon24/communication/</loc>
+         <lastmod>2024-01-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cogneon.github.io/cogneon/loscon24/coworking/</loc>
          <lastmod>2024-01-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
