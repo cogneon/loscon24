@@ -11,8 +11,6 @@ Das Orga-Team hat ab dem 02.02.2024 einen **wöchentlichen Orga-Call** jeweils *
 
 # Das loscon24 Team
 
-Am **26.01. von 10:00 - 11:00 Uhr** machen wir eine **kurze & unverbindliche Infosession** für alle, die mit dem Gedanken spielen, dieses Jahr im Orga-Team mitzumachen. Wer sich informieren möchte, kann sich einfach per Teams mal einwählen und zuhören und Fragen stellen ([Kalendereintrag herunterladen (ICS-Datei)](https://cloud.cogneon.de/s/o2Me2w9mR4A5CXn)).
-
 1. Benedikt Scheerer
 1. Christian Kaiser
 1. Frank Gerich
