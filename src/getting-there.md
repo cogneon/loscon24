@@ -15,6 +15,8 @@ Wir streben einen möglichst **kleinen ökologischen Fußabdruck** der Veranstal
 - [Design Hotel Vosteen](https://www.hotel-vosteen.de/)
 - [Dürer Hotel](https://www.duerer-hotel.de/)
 - [Motel One am Hauptbahnhof](https://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-hauptbahnhof/) (Dachterasse mit schönem Blick auf die Burg)
+- [Hotel Burgschmiet](https://www.hotel-burgschmiet.de/)
+- [Hotel Elch](https://hotel-elch.de/)
 
 # Mitfahr- und Mitwohngelegenheiten
 
