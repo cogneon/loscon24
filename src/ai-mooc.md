@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # lernOS KI MOOC
 
 Der **lernOS Künstliche Intelligenz (KI) MOOC** ([Massive Open Online Course](https://de.wikipedia.org/wiki/Massive_Open_Online_Course)) zur Erprobung des [neuen lernOS KI Leitfadens](https://community.cogneon.de/t/ein-lernos-leitfaden-zu-kuenstlicher-intelligenz-in-der-praxis-von-wissensarbeiter-innen/3872) findet **vom 6. Mai bis 21. Juni 2024** im Vorfeld der lernOS Convention statt. Die Livesessions in den Wochen sind immer Montags und Freitags von 13-14 Uhr.

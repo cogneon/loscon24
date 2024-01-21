@@ -43,6 +43,7 @@ nav:
 
 theme:
     name: readthedocs
+    custom_dir: src/overrides
     locale: de
     logo: img/loscon24-badge.png
 
@@ -52,15 +53,7 @@ extra_css:
   - loscon24.css
 
 extra:
-    social:
-        - icon: fontawesome/brands/mastodon
-          link: 'https://colearn.social/@lernos'
-        - icon: fontawesome/brands/linkedin
-          link: 'https://www.linkedin.com/showcase/lern-os'
-        - icon: fontawesome/brands/github
-          link: 'https://github.com/cogneon'
     giscus: true
-
 
 markdown_extensions:
   - attr_list
