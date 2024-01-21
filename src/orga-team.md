@@ -17,6 +17,7 @@ Das Orga-Team hat ab dem 02.02.2024 einen **wöchentlichen Orga-Call** jeweils *
 1. [Gabriele Schobess](https://www.linkedin.com/in/gabriele-schobess/) (remote)
 1. [Hans Gaertner](https://www.linkedin.com/in/hgaertner/)
 1. [Magnus Rode](https://www.linkedin.com/in/magnusrode/)
+1. [Marcel Kirchner](https://www.linkedin.com/in/marcelkirchner/)
 1. [Nicole Denzel](https://www.linkedin.com/in/nicoledenzel/)
 1. [Oliver Ewinger](https://www.linkedin.com/in/oliver-ewinger/)
 1. [Sabrina Stang](https://www.linkedin.com/in/sabrina-stang/)
