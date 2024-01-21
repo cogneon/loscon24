@@ -4,6 +4,10 @@ docs_dir: src
 site_dir: docs
 edit_uri: ""
 
+repo_name: 'cogneon/loscon24'
+repo_url: 'https://github.com/cogneon/loscon24'
+
+
 nav:
 - Startseite: index.md
 - Kommunikation: communication.md
@@ -39,9 +43,6 @@ copyright: Creative Commons Namensnennung 4.0 International (CC BY)
 
 extra_css:
   - loscon24.css
-
-repo_name: 'cogneon/loscon24'
-repo_url: 'https://github.com/cogneon/loscon24'
 
 extra:
     social:
