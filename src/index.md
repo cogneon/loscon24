@@ -1,6 +1,6 @@
 ![](img/loscon24-key-visual-banner.png)
 
-# Willkommen zur lernOS Convention 2024!
+# Willkommen zur lernOS Convention 2024 💛
 
 Das sind die **Infoseiten** zur [lernOS Convention 2024](https://cogneon.de/loscon24) für alle Teilnehmer:innen. Die **Tickets** für Vor-Ort- und Online-Teilnahme sind [über den Ticketshop](https://pretix.eu/cogneon/loscon24/) verfügbar. Mit Klick auf die jeweiligen Themen im Menü erfahrt ihr alles über die Veranstaltung. Es gibt einen **RSS-Feed** zu [neuen Seiten](feed_rss_created.xml) und [geänderten Seiten](feed_rss_updated.xml).
 
@@ -11,7 +11,7 @@ Das sind die **Infoseiten** zur [lernOS Convention 2024](https://cogneon.de/losc
 <a href="https://logwork.com/countdown-4y9k" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2024-07-02 10:00">loscon24 Countdown</a>
 
 # Wichtige Termine
-- **19.01.:** Golive Website cogneon.de/loscon24 und Ticketshop
+- **19.01.:** Golive Website [cogneon.de/loscon24](https://cogneon.de/loscon24) und Ticketshop
 - **26.01.:** Orga-Team Call for Participation (13:00 - 14:00 Uhr, Info-Termin für alle, die mit dem Gedanken spielen, in der Orga mitzuhelfen)
 - **02.02.:** Start der Orga-Calls des loscon24 Teams (jeweils Freitags, 10:00 - 11:00 Uhr)
 - **29.02.:** Ende der Anmeldephase für Gutscheine Leitfaden-Teams

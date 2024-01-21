@@ -25,6 +25,7 @@ nav:
   - Dezentrale Lokationen: loscon-everywhere.md
   - Barrierefreiheit: accessibility.md
 - Programm:
+  - Coworking: coworking.md
   - Programm: program.md
   - Abendprogramm: party.md
   - Archiv: archive.md
@@ -38,6 +39,7 @@ nav:
   - Infoseiten bearbeiten: infopages.md
   - Auf-/Abbau: logistics.md
   - Badge: badge.md
+  - Stückliste: bom.md
 
 theme:
     name: readthedocs
