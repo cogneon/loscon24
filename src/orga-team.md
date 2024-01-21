@@ -14,10 +14,14 @@ Das Orga-Team hat ab dem 02.02.2024 einen **wöchentlichen Orga-Call** jeweils *
 1. Benedikt Scheerer
 1. Christian Kaiser
 1. Frank Gerich
+1. Gabriele Schobess (remote)
+1. Hans Gaertner
 1. Magnus Rode
 1. Nicole Denzel
+1. Oliver Ewinger
 1. Sabrina Stang
-1. Sandra Richter
+1. Sandra Richter (remote)
 1. Simon Dückert
 1. Susann Schulz
-1. ...
+
+Wer noch bei der Organisation mithelfeen mag, egal ob mit viel oder weniger Zeit, kann sich gerne jederzeit [bei Simon melden](mailto:simon.dueckert@cogneon.de?subject=loscon%20Orga).
