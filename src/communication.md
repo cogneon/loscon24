@@ -7,4 +7,4 @@
 
 ## Während der Veranstaltung
 - [Discord](discord.md) ist der wichtigste synchrone Kommunikationskanal während der Veranstaltung. Dort ist auch unser **virtueller Infodesk** (Kanal #infodesk) zu erreichen.
-- Auf der Veranstaltung wird es wieder eine **Mastowall** zum Hashtag #loscon24 geben.
+- Auf der Veranstaltung wird es wieder eine [Mastowall zum Hashtag #loscon24](https://cogneon.github.io/mastowall/?hashtags=loscon24,lernos&server=https://mastodon.social) geben.
