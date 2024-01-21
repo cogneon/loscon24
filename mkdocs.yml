@@ -35,6 +35,8 @@ theme:
     locale: de
     logo: img/loscon24-badge.png
 
+copyright: Creative Commons Namensnennung 4.0 International (CC BY)
+
 extra_css:
   - loscon24.css
 
@@ -49,7 +51,6 @@ extra:
           link: 'https://www.linkedin.com/showcase/lern-os'
         - icon: fontawesome/brands/github
           link: 'https://github.com/cogneon'
-    generator: false
 
 
 markdown_extensions:
