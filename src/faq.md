@@ -11,6 +11,9 @@ Vorschläge für Lightning Talks, Sessions und Workshops müssen über den Call 
 ## Brauchen Session-Geber*innen und Community-Assembly-Hosts auch ein Ticket?
 Ja, alle Teilnehmer des lernOS Camp müssen sich ein Ticket klicken. Wer eine Session oder Assembly einreicht, aber kein Ticket hat, kann nicht im Programm berücksichtigt werden.
 
+## Ich habe die Email mit meinem Ticket nicht mehr, kann ich die nochmal erhalten?
+Na klar, einfach [im Ticketshop](https://pretix.eu/cogneon/loscon24/) auf _Link erneut senden_ klicken, Email eingeben und das Ticket wird Dir nochmal zugeschickt.
+
 ## Warum Microsoft Teams und Discord als Toolset?
 Microsoft Teams ist in vielen Organisationen das Standard-Tool für Videokonferenzen und daher offiziell erlaubt (anders als z.B. Zoom). Teams reicht aber an die Einfachheit von Discord beim Anlegen von Sprach- und Audio-Kanälen nicht heran. Discord kann wie Teams über Web, Desktop-Anwendung und App verwendet werden.
 
