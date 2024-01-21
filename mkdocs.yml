@@ -35,6 +35,9 @@ theme:
     locale: de
     logo: img/loscon24-badge.png
 
+extra_css:
+  - loscon24.css
+
 repo_name: 'cogneon/loscon24'
 repo_url: 'https://github.com/cogneon/loscon24'
 
