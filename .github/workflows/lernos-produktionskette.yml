@@ -18,6 +18,7 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs
       - run: pip install pymdown-extensions
+      - run: pip install mkdocs-rss-plugin
       - run: mkdocs build -f ./mkdocs.yml
 
       # Geänderte Datein zurück ins Repository committen
