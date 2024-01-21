@@ -7,6 +7,9 @@ Das sind die **Infoseiten** zur [lernOS Convention 2024](https://cogneon.de/losc
 !!! Orga-Team
     Am **26.01. von 10:00 - 11:00 Uhr** machen wir eine **kurze & unverbindliche Infosession** für alle, die mit dem Gedanken spielen, dieses Jahr im Orga-Team mitzumachen. Wer sich informieren möchte, kann sich einfach per Teams mal einwählen und zuhören und Fragen stellen ([Kalendereintrag herunterladen (ICS-Datei)](https://cloud.cogneon.de/s/o2Me2w9mR4A5CXn)).
 
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-4y9k" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2024-07-02 10:00">loscon24 Countdown</a>
+
 # Wichtige Termine
 - **19.01.:** Golive Website cogneon.de/loscon24 und Ticketshop
 - **26.01.:** Orga-Team Call for Participation (13:00 - 14:00 Uhr, Info-Termin für alle, die mit dem Gedanken spielen, in der Orga mitzuhelfen)
