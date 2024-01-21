@@ -1,12 +1,12 @@
 # Lokation
 
-Die [Nürnberger Burg](https://de.wikipedia.org/wiki/N%C3%BCrnberger_Burg) ist das Wahrzeichen der Stadt Nürnberg. Sie ist eine sog. Doppelburg, die aus Kaiserburg und Burggrafenburg besteht. In den ehem. Kaiserstallungen ist heute die Jugendherberge Nürnberg, die mit dem [Eppeleinsaal und den neun Seminarräumen](https://www.jugendherberge.de/jugendherbergen/nuernberg/tagen/) ideale Räumlichkeiten für die lernOS Convention bieten (Bildquelle: [jugendherberge.de](https://www.jugendherberge.de/jugendherbergen/nuernberg/tagen/)).
+Die [Nürnberger Burg](https://de.wikipedia.org/wiki/N%C3%BCrnberger_Burg) ist das Wahrzeichen der [Stadt Nürnberg](https://de.wikipedia.org/wiki/N%C3%BCrnberg). Sie ist eine sog. Doppelburg, die aus **Kaiserburg** und **Burggrafenburg** besteht. In den ehem. Kaiserstallungen ist heute die **Jugendherberge Nürnberg**, die mit dem [Eppeleinsaal und den neun Seminarräumen](https://www.jugendherberge.de/jugendherbergen/nuernberg/tagen/) ideale Räumlichkeiten für die lernOS Convention bieten (Bildquelle: [jugendherberge.de](https://www.jugendherberge.de/jugendherbergen/nuernberg/tagen/)).
 
 ![Quelle: https://www.jugendherberge.de/jugendherbergen/nuernberg/tagen/](img/eppeleinsaal.jpg)
 
 ## Adresse
 
-Burg Nürnberg, Eingang am Fünfeckturm), Burg 2, 90403 Nürnberg ([OpenStreetMap](https://openstreetmap.de/karte/?zoom=19&lat=49.45794&lon=11.07699&layers=B00TT), [Google Map](https://maps.app.goo.gl/VuHSpyymTumF3mmG6)
+Burg Nürnberg, Burg 2, 90403 Nürnberg ([OpenStreetMap](https://openstreetmap.de/karte/?zoom=19&lat=49.45794&lon=11.07699&layers=B00TT), [Google Map](https://maps.app.goo.gl/VuHSpyymTumF3mmG6))
 
 ![](img/map-castle-nuremberg.png)
 
