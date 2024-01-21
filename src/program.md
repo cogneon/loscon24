@@ -7,6 +7,6 @@ Das **Program der loscon24** werdet Ihr unter [pretalx.com/loscon24](https://pre
 - Über das Menü oben recht erhaltet ihr einen **iCal-Link** und/oder einen **QR-Code**, mit dem ihr euch das Programm zu eurem Kalender hinzufügen könnt.
 - Im **Discord-Kanal** #programm findet ihr den Link zum Programm, die Teams-Einwahllinks und weitere Ankündigungen.
 
-# Call for Participation
+## Call for Participation
 
 Der [Call for Participation](https://pretalx.com/loscon24/cfp) wird Anfang März 2024 veröffentlicht.

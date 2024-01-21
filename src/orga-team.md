@@ -2,14 +2,14 @@
 
 Das Orga-Team hat ab dem 02.02.2024 einen **wöchentlichen Orga-Call** jeweils **Freitags von 10:00 - 11:00 Uhr** per MS Teams. Die Retro ist am 12.07.2024 von 10:00 - 11:00 Uhr.
 
-# Infrastruktur
+## Infrastruktur
 
 - **Kommunikation:** Kanal #loscon24-orga auf dem Discord-Server der Cogneon Akademie ([Einladungslink](https://discord.gg/deQzp9ZNaR))
 - **Dokumentation:** [Wiki](https://github.com/cogneon/loscon24/wiki) im Github-Repo loscon24
 - **Aufgabenverwaltung:** [Issues](https://github.com/cogneon/loscon24/issues) im Github-Repo loscon24
 - **Dateien:** Ordner in COSHARE (Nextcloud)
 
-# Das loscon24 Team
+## Das loscon24 Team
 
 1. [Benedikt Scheerer](https://www.linkedin.com/in/benedikt-scheerer-6020ba18/)
 1. [Christian Kaiser](https://www.linkedin.com/in/christian-kaiser-datev/)
