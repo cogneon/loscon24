@@ -19,7 +19,8 @@ In der Burg nutzen wir folgende Räumlichkeiten (s.a. [Tagen in Nürnberg](https
 - **Foyer (1.Stock):** Sofas für private Gespräche und individuelle Teilnahme an Konferenzen
 
 ## Umgebung
-- [Burggarten](https://www.kaiserburg-nuernberg.de/deutsch/garten/index.htm) (schöner Garten direkt gegenüber von unserem Eingang, gut zum Flanieren geeignet)
-- [Hexenhäusle](https://hexenhaeusle-nuernberg.com/) (Biergarten direkt in der Burgmauer)
-- [Restaurant Burgwächter](https://burgwaechter-nuernberg.de/) (traditionell fränkisches Restaurant, direkt unterhalb der Burg)
-- [Hausbrauerei Altstadthof](https://hausbrauerei-altstadthof.de/) (hier gibt es das Nürnberger Rotbier, Ausgangspunkt für eine Tour durch die [historischen Felsengänge](https://www.historische-felsengaenge.de/))
+- [Burggarten](https://www.kaiserburg-nuernberg.de/deutsch/garten/index.htm) - schöner Garten direkt gegenüber von unserem Eingang, gut zum Flanieren geeignet
+- [Hexenhäusle](https://hexenhaeusle-nuernberg.com/) - Biergarten direkt in der Burgmauer
+- [Restaurant Burgwächter](https://burgwaechter-nuernberg.de/) - traditionell fränkisches Restaurant, direkt unterhalb der Burg
+- [Hausbrauerei Altstadthof](https://hausbrauerei-altstadthof.de/) - hier gibt es das Nürnberger Rotbier, Ausgangspunkt für eine Tour durch die [historischen Felsengänge](https://www.historische-felsengaenge.de/)
+- [Schöner Brunnen](https://de.wikipedia.org/wiki/Sch%C3%B6ner_Brunnen_(N%C3%BCrnberg)) - dreht am Ring, das bring Glück 🤭
