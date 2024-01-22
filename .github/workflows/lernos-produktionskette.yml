@@ -19,6 +19,8 @@ jobs:
       - run: pip install mkdocs
       - run: pip install pymdown-extensions
       - run: pip install mkdocs-rss-plugin
+      - run: pip install mkdocs-rss-plugin
+      - run: pip install mkdocs-markmap
       - run: mkdocs build -f ./mkdocs.yml
 
       # Geänderte Datein zurück ins Repository committen

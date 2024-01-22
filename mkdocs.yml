@@ -64,3 +64,4 @@ markdown_extensions:
 plugins:
   - search
   - rss
+  - markmap
