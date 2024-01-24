@@ -52,7 +52,12 @@ copyright: Creative Commons Namensnennung 4.0 International (CC BY)
 extra_css:
   - loscon24.css
 
+extra_javascript:
+  - javascripts/matomo.js
+
 extra:
+    analytics:
+       provider: custom
     giscus: true
 
 markdown_extensions:
