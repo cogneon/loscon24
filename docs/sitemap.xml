@@ -51,6 +51,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://cogneon.github.io/cogneon/loscon24/email/</loc>
+         <lastmod>2024-01-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://cogneon.github.io/cogneon/loscon24/eve/</loc>
          <lastmod>2024-01-26</lastmod>
          <changefreq>daily</changefreq>
