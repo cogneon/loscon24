@@ -4,6 +4,9 @@
 
 Das sind die **Infoseiten** zur [lernOS Convention 2024](https://cogneon.de/loscon24) für alle Teilnehmer:innen. Die **Tickets** für Vor-Ort- und Online-Teilnahme sind [über den Ticketshop](https://pretix.eu/cogneon/loscon24/) verfügbar. Mit Klick auf die jeweiligen Themen im Menü erfahrt ihr alles über die Veranstaltung. Es gibt einen **RSS-Feed** zu [neuen Seiten](feed_rss_created.xml) und [geänderten Seiten](feed_rss_updated.xml).
 
+!!! Tipp
+    Im Vorfeld der lernOS Convention findet der [lernOS KI MOOC](ai-mooc.md) vom 06.05.-21.06. als kostenloser Online-Kurs statt. Eine [Voranmeldung](https://www.meetup.com/cogneon/events/297769514/) über meetup.com ist bereits verfügbar.
+
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 <a href="https://logwork.com/countdown-4y9k" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2024-07-02 10:00">loscon24 Countdown</a>
 
