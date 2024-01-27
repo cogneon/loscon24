@@ -11,11 +11,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://loscon.lernos.org/ai-mooc/</loc>
-         <lastmod>2024-01-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://loscon.lernos.org/archive/</loc>
          <lastmod>2024-01-27</lastmod>
          <changefreq>daily</changefreq>
@@ -77,6 +72,11 @@
     </url>
     <url>
          <loc>https://loscon.lernos.org/infopages/</loc>
+         <lastmod>2024-01-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://loscon.lernos.org/kimooc24/</loc>
          <lastmod>2024-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
