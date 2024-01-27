@@ -4,8 +4,36 @@ comments: true
 
 # lernOS KI MOOC
 
-Der **lernOS Künstliche Intelligenz (KI) MOOC** ([Massive Open Online Course](https://de.wikipedia.org/wiki/Massive_Open_Online_Course)) zur Erprobung des [neuen lernOS KI Leitfadens](https://community.cogneon.de/t/ein-lernos-leitfaden-zu-kuenstlicher-intelligenz-in-der-praxis-von-wissensarbeiter-innen/3872) findet **vom 6. Mai bis 21. Juni 2024** im Vorfeld der lernOS Convention statt. Die Livesessions in den Wochen sind immer Montags und Freitags von 13-14 Uhr.
+Der **lernOS Künstliche Intelligenz (KI) MOOC** (#kimooc24) ist ein [Massive Open Online Course](https://de.wikipedia.org/wiki/Massive_Open_Online_Course) zur Erprobung des [neuen lernOS KI Leitfadens](https://community.cogneon.de/t/ein-lernos-leitfaden-zu-kuenstlicher-intelligenz-in-der-praxis-von-wissensarbeiter-innen/3872). Der MOOC findet **vom 6. Mai bis 21. Juni 2024** im Vorfeld der lernOS Convention statt. Für die fünf MOOC-Wochen solltet ihr euch ca. **2 Stunden Zeit pro Woche** einplanen.
 
-🎓 Die Voranmeldung ist schon [über meetup.com](https://www.meetup.com/cogneon/events/297769514/) möglich.
+🎓 Die Voranmeldung zum MOOC ist schon [über meetup.com](https://www.meetup.com/cogneon/events/297769514/) möglich 🎓
 
-**Hinweis:** über den MOOC werden wir [wie beim Management 2.0 MOOC](https://de.slideshare.net/mgmt20mooc/mgmt20-mooc-praesentationlerngruppen) (2013) Lerngruppen bilden, die dann in die **loscon Circles** übergehen.
+# Was ist ein MOOC?
+Ein MOOC ist ein großer, für alle offener Online-Kurs, an dem sehr viele Menschen gleichzeitig teilnehmen und sich austauschen. Der lernOS KI MOOC ist ein sog. cMOOC. Im Gegensatz zu einem xMOOC, der aus voraufgezeichneten Lerninhalten besteht, geht es beim cMOOC mehr um Interaktion, Austausch und Vernetzung der Teilnehmer:innen. Die Bundeszentrale hat [ein Video](https://www.youtube.com/watch?v=HsOJc86Y8Lk) (CC BY) und [einen Text](https://www.bpb.de/lernen/digitale-bildung/werkstatt/211327/glossar-moocs/) zur Erklärung von MOOCs erstellt ([alternative Video auf Englisch](https://www.youtube.com/watch?v=eW3gMGqcZQc)).
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HsOJc86Y8Lk?si=hYbyzFiwnf_YQsXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Der lernOS KI MOOC
+
+In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Osterferien) finden jeweils Montags und **Freitags von 13:00 - 14:00 Uhr Live-Sessions** per Microsoft Teams statt:
+
+- **06.-10.05.:** Woche 1 (Auftaktwoche)
+- **13.-17.05.:** Woche 2
+- **20.-24.05.:** Kein Programm (Ostern)
+- **27.-31.05.:** Kein Programm (Ostern)
+- **03.-07.06.:** Woche 3
+- **10.-14.06.:** Woche 4
+- **17.-21.06.:** Woche 5
+
+Montag wird es jeweils einen Impulsvortrag geben sowie eine Einführung in die Übungen (Katas) der jeweiligen Woche. Am Freitag werden wir die Ergebnisse der Woche reflektieren und offene Fragen besprechen.
+
+# So kannst Du mitmachen
+Der lernOS KI MOOC ist kostenfrei und für alle offen. So kannst du dir ganz einfach einen Platz sichern:
+
+1. **Schritt:** melde Dich [über meetup.com](https://www.meetup.com/cogneon/events/297769514/) zum MOOC an
+1. **Schritt:** trage Dir die Termine für die Livesessions (s.o.) in den Kalender ein (wir verschicken rechtzeitig die Einwahllinks an alle angemeldeten Tln.)
+1. **Schritt:** suche Dir 3-4 Mit-Lernende, mit denen Du im MOOC eine Lerngruppe bilden magst (falls du lieber alleine Lernen magst, enfällt dieser Schritt)
+1. **Schritt:** mache dich vor dem MOOC schonmal mit den [Grundlagen des lernOS KI Leitfadens](https://cogneon.github.io/lernos-ai/de/1-1-ai-history/) vertraut
+1. **Schritt:** (optional) Plane Dir den 2./3. Juli für die lernOS Convention 2024 ein, falls Du Deine Erfahrungen mit anderen austauschen und offene Fragen besprechen möchtest
+
+# Tipps & Tricks zur MOOC-Teilnahme

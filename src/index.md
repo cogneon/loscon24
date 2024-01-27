@@ -15,7 +15,7 @@ Das sind die **Infoseiten** zur [lernOS Convention 2024](https://cogneon.de/losc
 - **29.02.:** Ende der Anmeldephase für Gutscheine Leitfaden-Teams
 - **01.03.:** Start Promo und Social Media Aktivitäten
 - **04.03.:** Golive Call for Participation (Einreichung von Programmvorschlägen)
-- **06.05.-21.06.:** lernOS Künstliche Intelligenz (KI) MOOC ([Voranmeldung](https://www.meetup.com/de-DE/cogneon/events/297769514/))
+- **06.05.-21.06.:** [lernOS Künstliche Intelligenz (KI) MOOC](ai-mooc.md)
 - **01.06.:** Programm Version 1.0 ist fertig (kuratiertes Programm, nicht Barcamp-Sessions)
 - **25.06.:** Vorab-Webkonferenz (13:00 - 14:00 Uhr), Infomail an Teilnehmer:innen mit Einladung in loscon24-Discord-Server und Kalendereinträgen
 - **26.06.:** Programm Version 2.0 ist fertig (Barcamp-Sessions)
