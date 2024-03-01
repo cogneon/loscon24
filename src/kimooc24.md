@@ -19,8 +19,8 @@ In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Osterferi
 
 - **06.-10.05.:** Woche 1 (Auftaktwoche)
 - **13.-17.05.:** Woche 2
-- **20.-24.05.:** Kein Programm (Ostern)
-- **27.-31.05.:** Kein Programm (Ostern)
+- **20.-24.05.:** Kein Programm (Pfingsten)
+- **27.-31.05.:** Kein Programm (Pfingsten)
 - **03.-07.06.:** Woche 3
 - **10.-14.06.:** Woche 4
 - **17.-21.06.:** Woche 5
