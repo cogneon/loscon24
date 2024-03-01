@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v3
       
       # Delete Old Versions
-      - run: rm -rf ./docs/*
+      - run: rm -rf ./docs/de/*
 
       # Create Web Version (mkdocs)
       - uses: actions/setup-python@v4
@@ -21,7 +21,7 @@ jobs:
       - run: pip install mkdocs-rss-plugin
       - run: pip install mkdocs-rss-plugin
       - run: pip install mkdocs-markmap
-      - run: mkdocs build -f ./mkdocs.yml
+      - run: mkdocs build -f ./de/mkdocs.yml
 
       # Geänderte Datein zurück ins Repository committen
       - uses: stefanzweifel/git-auto-commit-action@v4

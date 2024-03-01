@@ -2,7 +2,7 @@ site_name: lernOS Convention 2024
 site_description: Infoseiten zur lernOS Convention 2024 mit allen Informationen zur Veranstaltung am 2.-3. Juli 2024.
 site_url: https://loscon.lernos.org
 docs_dir: src
-site_dir: docs
+site_dir: ../docs/de
 edit_uri: ""
 
 repo_name: 'cogneon/loscon24'
