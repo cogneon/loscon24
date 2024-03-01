@@ -43,4 +43,4 @@ Der lernOS KI MOOC ist kostenfrei und für alle offen. So kannst du dir ganz ein
 1. Folge der [Linkedin-Seite lernOS](https://www.linkedin.com/showcase/28494203) und/oder [@lernOS auf Mastodon](https://colearn.social/@lernos), um über Neuigkeiten zum MOOC auf dem Laufenden zu bleiben
 1. Nutzt ein Tool für die **Kommunikation** in der Lerngruppe per Chat (z.B. [Peerfinder](https://web.peerfinder.app/), [Signal](https://signal.org/), [Matrix](https://matrix.org/), Teams)
 1. Nutzt ein Tool für die **Dokumentation** in der Lerngruppe (z.B. Etherpad per [Zumpad](https://zumpad.zum.de/))
-1. **Teile die Informationen zum MOOC** in Deinen Netzwerken damit wir auch wirklich "massive" werden. Gut funktioniert dafür z.B. die **Telefonlawine** der drei Fragezeichen: frage 5 Freunde, die wieder 5 Freunde fragen usw. 🤭
+1. **Teile die Informationen zum MOOC** in Deinen Netzwerken, damit wir auch wirklich "massive" werden. Gut funktioniert dafür z.B. die **Telefonlawine** der drei Fragezeichen: frage 5 Freunde, die wieder 5 Freunde fragen usw. 🤭
