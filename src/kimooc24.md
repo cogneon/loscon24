@@ -15,7 +15,7 @@ Ein MOOC ist ein großer, für alle offener Online-Kurs, an dem sehr viele Mensc
 
 # Der lernOS KI MOOC
 
-In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Osterferien) finden jeweils Montags und **Freitags von 13:00 - 14:00 Uhr Live-Sessions** per Microsoft Teams statt:
+In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Pfingsferien) finden jeweils **montags von 13:00 - 14:00 Uhr Live-Sessions** per Microsoft Teams statt:
 
 - **06.-10.05.:** Woche 1 (Auftaktwoche)
 - **13.-17.05.:** Woche 2
@@ -25,7 +25,7 @@ In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Osterferi
 - **10.-14.06.:** Woche 4
 - **17.-21.06.:** Woche 5
 
-Montag wird es jeweils einen Impulsvortrag geben sowie eine Einführung in die Übungen (Katas) der jeweiligen Woche. Am Freitag werden wir die Ergebnisse der Woche reflektieren und offene Fragen besprechen.
+Am Montag wird es jeweils einen Impulsvortrag geben sowie eine Einführung in die Übungen (Katas) der jeweiligen Woche. 
 
 # So kannst Du mitmachen
 Der lernOS KI MOOC ist kostenfrei und für alle offen. So kannst du dir ganz einfach einen Platz sichern:
