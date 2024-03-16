@@ -8,24 +8,26 @@ Der **lernOS Künstliche Intelligenz (KI) MOOC** (#kimooc24) ist ein [Massive Op
 
 <button type="button"><a href="https://www.meetup.com/cogneon/events/297769514/" target="_blank">Anmelden über meetup.com</a></button>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EOoB-WDLp9U?si=pExDtBGpNKfyL-CU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<nbsp;>
+
 ## Was ist ein MOOC?
 Ein MOOC ist ein großer, für alle offener Online-Kurs, an dem sehr viele Menschen gleichzeitig teilnehmen und sich austauschen. Der lernOS KI MOOC ist ein sog. cMOOC. Im Gegensatz zu einem xMOOC, der aus voraufgezeichneten Lerninhalten besteht, geht es beim cMOOC mehr um Interaktion, Austausch und Vernetzung der Teilnehmer:innen. Die Bundeszentrale hat [ein Video](https://www.youtube.com/watch?v=HsOJc86Y8Lk) (CC BY) und [einen Text](https://www.bpb.de/lernen/digitale-bildung/werkstatt/211327/glossar-moocs/) zur Erklärung von MOOCs erstellt ([alternative Video auf Englisch](https://www.youtube.com/watch?v=eW3gMGqcZQc)).
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HsOJc86Y8Lk?si=hYbyzFiwnf_YQsXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<nbsp;>
 
 ## Der lernOS KI MOOC
 
-In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Pfingsferien) finden jeweils **montags von 13:00 - 14:00 Uhr Live-Sessions** per Microsoft Teams statt:
+In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Pfingsferien) finden jeweils **montags von 13:00 - 14:00 Uhr Live-Sessions** per Microsoft Teams statt (ja, wir zeichnen auf 😉):
 
-- **06.-10.05.:** Woche 1 (Auftaktwoche)
-- **13.-17.05.:** Woche 2
+- **Woche 1 (06.-10.05.):** Teaming up with AI - Die ersten Schritte
+- **Woche 2 (13.-17.05.):** KI auf dem Prüfstand - What's in it for me?
 - **20.-24.05.:** Kein Programm (Pfingsten)
 - **27.-31.05.:** Kein Programm (Pfingsten)
-- **03.-07.06.:** Woche 3
-- **10.-14.06.:** Woche 4
-- **17.-21.06.:** Woche 5
-
-Am Montag wird es jeweils einen Impulsvortrag geben sowie eine Einführung in die Übungen (Katas) der jeweiligen Woche. 
+- **Woche 3 (03.-07.06.):** Mein erster Blog- oder Social-Media-Beitrag mit KI-Support
+- **Woche 4 (10.-14.06.):** Prompting like a Pro - Prompt Engineering verstehen und anwenden
+- **Woche 5 (17.-21.06.):** Cool down - was haben wir gelernt?
 
 ## So kannst Du mitmachen
 Der lernOS KI MOOC ist kostenfrei und für alle offen. So kannst du dir ganz einfach einen Platz sichern:
