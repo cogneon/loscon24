@@ -35,13 +35,13 @@ Der lernOS KI MOOC ist kostenfrei und für alle offen. So kannst du dir ganz ein
 1. **Schritt:** melde Dich [über meetup.com](https://www.meetup.com/cogneon/events/297769514/) zum MOOC an
 1. **Schritt:** trage Dir die Termine für die Livesessions (s.o.) in den Kalender ein (wir verschicken rechtzeitig die Einwahllinks an alle angemeldeten Tln.)
 1. **Schritt:** suche Dir 3-4 Mit-Lernende, mit denen Du im MOOC eine Lerngruppe bilden magst. Gut eignen sich auch Lerngruppen, die sich regional oder in Unternehmen treffen und austauschen
-1. **Schritt:** mache dich vor dem MOOC schonmal mit den [Grundlagen des lernOS KI Leitfadens](https://cogneon.github.io/lernos-ai/de/1-1-ai-history/) vertraut
+1. **Schritt:** mache dich vor dem MOOC schonmal mit den [Grundlagen des lernOS KI Leitfadens](https://ai.lernos.org/de/1-2-ai-machine-learning/) vertraut
 1. **Schritt:** (optional) Plane Dir den 2./3. Juli für die lernOS Convention 2024 ein, falls Du Deine Erfahrungen mit anderen austauschen und offene Fragen besprechen möchtest
 
 ## Tipps & Tricks zur MOOC-Teilnahme
 1. Nutze **Tools** wie den [Peerfinder](https://web.peerfinder.app/de), um Mit-Lernende für Deine Lerngruppe zu finden
 1. Nutze den **Hashtag #kimooc24**, wenn Du über den MOOC in Sozialen Medien schreibst (z.B. Linkedin, Mastodon)
-1. Tritt dem [Kanal #kimooc24 auf unserem Discord-Server](https://loscon.lernos.org/ai-mooc/) bei um weitere Infos zu erhalten und Dich austauschen zu können
+1. Tritt dem [Kanal #kimooc24 auf unserem Discord-Server](https://discord.gg/u7cjPq6t6e) bei um weitere Infos zu erhalten und Dich austauschen zu können
 1. Folge der [Linkedin-Seite lernOS](https://www.linkedin.com/showcase/28494203) und/oder [@lernOS auf Mastodon](https://colearn.social/@lernos), um über Neuigkeiten zum MOOC auf dem Laufenden zu bleiben
 1. Nutzt ein Tool für die **Kommunikation** in der Lerngruppe per Chat (z.B. [Peerfinder](https://web.peerfinder.app/), [Signal](https://signal.org/), [Matrix](https://matrix.org/), Teams)
 1. Nutzt ein Tool für die **Dokumentation** in der Lerngruppe (z.B. Etherpad per [Zumpad](https://zumpad.zum.de/))
