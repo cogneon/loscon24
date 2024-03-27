@@ -39,6 +39,9 @@ Der lernOS KI MOOC ist kostenfrei und für alle offen. So kannst du dir ganz ein
 1. **Schritt:** mache dich vor dem MOOC schonmal mit den [Grundlagen des lernOS KI Leitfadens](https://ai.lernos.org/de/1-2-ai-machine-learning/) vertraut
 1. **Schritt:** (optional) Plane Dir den 2./3. Juli für die lernOS Convention 2024 ein, falls Du Deine Erfahrungen mit anderen austauschen und offene Fragen besprechen möchtest
 
+## 🏳️‍🌈 Not speaking German? 🏳️‍🌈
+The language of the kimooc24 is German. But of course you can participate in another language. We will provide an English version of the lernOS AI Guide. We use Microsoft Teams Premium for the live sessions so you can [use the live translation feature](https://insider.microsoft365.com/ja-jp/blog/live-translated-transcript-for-teams-premium-users). You can ask questions in English in the chat. You can start learning circles in any language you want. The lernOS community is a diverse bunch of people - all creatures welcome!
+
 ## Tipps & Tricks zur MOOC-Teilnahme
 1. Nutze **Tools** wie den [Peerfinder](https://web.peerfinder.app/de), um Mit-Lernende für Deine Lerngruppe zu finden
 1. Nutze den **Hashtag #kimooc24**, wenn Du über den MOOC in Sozialen Medien schreibst (z.B. Linkedin, Mastodon)
