@@ -36,7 +36,7 @@ Der lernOS KI MOOC ist kostenfrei und für alle offen. So kannst du dir ganz ein
 1. **Schritt:** trage Dir die Termine für die Livesessions (s.o.) in den Kalender ein (wir verschicken rechtzeitig die Einwahllinks an alle angemeldeten Tln.)
 1. **Schritt:** suche Dir 3-4 Mit-Lernende, mit denen Du im MOOC eine Lerngruppe bilden magst. Gut eignen sich auch Lerngruppen, die sich regional oder in Unternehmen treffen und austauschen
 1. **Schritt:** Trage Dich mit einem Marker in die [kimooc24 Map](https://padlet.com/loscon1/kimooc24) ein, damit alle einen Überblick über die Vielfalt der Lernenden im MOOC haben.
-1. **Schritt:** mache dich vor dem MOOC schonmal mit den [Grundlagen des lernOS KI Leitfadens](https://ai.lernos.org/de/1-2-ai-machine-learning/) vertraut
+1. **Schritt:** mache dich vor dem MOOC schon mit den Grundlagen des [lernOS KI Leitfadens](https://ai.lernos.org/de/) vertraut
 1. **Schritt:** (optional) Plane Dir den 2./3. Juli für die lernOS Convention 2024 ein, falls Du Deine Erfahrungen mit anderen austauschen und offene Fragen besprechen möchtest
 
 ## 🏳️‍🌈 Not speaking German? 🏳️‍🌈
