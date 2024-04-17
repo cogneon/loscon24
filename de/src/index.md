@@ -5,7 +5,7 @@
 Das sind die **Infoseiten** zur [lernOS Convention 2024](https://cogneon.de/loscon24) für alle Teilnehmer:innen. Die **Tickets** für Vor-Ort- und Online-Teilnahme sind [über den Ticketshop](https://pretix.eu/cogneon/loscon24/) verfügbar. Mit Klick auf die jeweiligen Themen im Menü erfahrt ihr alles über die Veranstaltung. Es gibt einen **RSS-Feed** zu [neuen Seiten](de/feed_rss_created.xml) und [geänderten Seiten](de/feed_rss_updated.xml).
 
 !!! Tipp
-    Im Vorfeld der lernOS Convention findet der [lernOS KI MOOC](kimooc24.md) vom 06.05.-21.06. als kostenloser Online-Kurs statt. Eine [Voranmeldung](https://www.meetup.com/cogneon/events/297769514/) über meetup.com ist bereits verfügbar.
+    Im Vorfeld der lernOS Convention findet der [lernOS KI MOOC](kimooc24.md) vom 06.05.-21.06. als kostenloser Online-Kurs statt. Die Anmeldung erfolgt [über meetup.com](https://www.meetup.com/cogneon/events/297769514/).
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 <a href="https://logwork.com/countdown-4y9k" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2024-07-02 10:00">loscon24 Countdown</a>
@@ -17,7 +17,7 @@ Das sind die **Infoseiten** zur [lernOS Convention 2024](https://cogneon.de/losc
 - **02.02.:** Start der Orga-Calls des loscon24 Teams (jeweils Freitags, 10:00 - 11:00 Uhr)
 - **29.02.:** Ende der Anmeldephase für Gutscheine Leitfaden-Teams
 - **01.03.:** Start Promo und Social Media Aktivitäten
-- **04.03.:** Golive Call for Participation (Einreichung von Programmvorschlägen)
+- **04.03.:** Golive [Call for Participation](https://pretalx.com/loscon24/cfp) (Einreichung von Programmvorschlägen)
 - **06.05.-21.06.:** [lernOS Künstliche Intelligenz (KI) MOOC](kimooc24.md)
 - **01.06.:** Programm Version 1.0 ist fertig (kuratiertes Programm, nicht Barcamp-Sessions)
 - **25.06.:** Vorab-Webkonferenz (13:00 - 14:00 Uhr), Infomail an Teilnehmer:innen mit Einladung in loscon24-Discord-Server und Kalendereinträgen
