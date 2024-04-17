@@ -21,13 +21,13 @@ Ein MOOC ist ein großer, für alle offener Online-Kurs, an dem sehr viele Mensc
 
 In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Pfingsferien) finden jeweils **montags von 13:00 - 14:00 Uhr Live-Sessions** per Microsoft Teams statt (ja, wir zeichnen auf 😉):
 
-- **Woche 1 (06.-10.05.):** Teaming up with AI - Die ersten Schritte
-- **Woche 2 (13.-17.05.):** KI auf dem Prüfstand - What's in it for me?
+- **Woche 1 (06.-10.05.):** Teaming up with AI - Die ersten Schritte (Katas 0, 1, 2)
+- **Woche 2 (13.-17.05.):** KI auf dem Prüfstand - What's in it for me? (Katas 3, 4, 5)
 - **20.-24.05.:** Kein Programm (Pfingsten)
 - **27.-31.05.:** Kein Programm (Pfingsten)
-- **Woche 3 (03.-07.06.):** Mein erster Blog- oder Social-Media-Beitrag mit KI-Support
-- **Woche 4 (10.-14.06.):** Prompting like a Pro - Prompt Engineering verstehen und anwenden
-- **Woche 5 (17.-21.06.):** Cool down - was haben wir gelernt?
+- **Woche 3 (03.-07.06.):** Mein erster Blog- oder Social-Media-Beitrag mit KI-Support (Katas 6, 7, 8, 9)
+- **Woche 4 (10.-14.06.):** Prompting like a Pro - Prompt Engineering verstehen und anwenden (Katas 10, 11)
+- **Woche 5 (17.-21.06.):** Cool down - was haben wir gelernt? (Kata 12)
 
 ## So kannst Du mitmachen
 Der lernOS KI MOOC ist kostenfrei und für alle offen. So kannst du dir ganz einfach einen Platz sichern:
