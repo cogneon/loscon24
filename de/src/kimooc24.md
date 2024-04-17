@@ -6,7 +6,7 @@ comments: true
 
 Der **lernOS Künstliche Intelligenz (KI) MOOC** (#kimooc24) ist ein [Massive Open Online Course](https://de.wikipedia.org/wiki/Massive_Open_Online_Course) zur Erprobung des [neuen lernOS KI Leitfadens](https://community.cogneon.de/t/ein-lernos-leitfaden-zu-kuenstlicher-intelligenz-in-der-praxis-von-wissensarbeiter-innen/3872). Der MOOC findet **vom 6. Mai bis 21. Juni 2024** im Vorfeld der lernOS Convention statt. Für die fünf MOOC-Wochen solltet ihr euch ca. **2 Stunden Zeit pro Woche** einplanen.
 
-<button type="button"><a href="https://www.meetup.com/cogneon/events/297769514/" target="_blank">Anmelden über meetup.com</a></button> <button type="button"><a href="https://loscon.lernos.org/de-slides" target="_blank">Einführungspräsentation</a></button>
+<button type="button"><a href="https://www.meetup.com/cogneon/events/297769514/" target="_blank">Anmelden über meetup.com</a></button> <button type="button"><a href="https://loscon.lernos.org/de-slides" target="_blank">kimooc24 Präsentation</a></button>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EOoB-WDLp9U?si=pExDtBGpNKfyL-CU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <nbsp;>
