@@ -4,6 +4,8 @@
 
 Das sind die **Infoseiten** zur [lernOS Convention 2024](https://cogneon.de/loscon24) für alle Teilnehmer:innen. Die **Tickets** für Vor-Ort- und Online-Teilnahme sind [über den Ticketshop](https://pretix.eu/cogneon/loscon24/) verfügbar. Mit Klick auf die jeweiligen Themen im Menü erfahrt ihr alles über die Veranstaltung. Es gibt einen **RSS-Feed** zu [neuen Seiten](de/feed_rss_created.xml) und [geänderten Seiten](de/feed_rss_updated.xml).
 
+<button type="button"><a href="https://pretix.eu/cogneon/loscon24/" target="_blank">Zur loscon24 anmelden</a></button>
+
 !!! Tipp
     Im Vorfeld der lernOS Convention findet der [lernOS KI MOOC](kimooc24.md) vom 06.05.-21.06. als kostenloser Online-Kurs statt. Die Anmeldung erfolgt [über meetup.com](https://www.meetup.com/cogneon/events/297769514/).
 
