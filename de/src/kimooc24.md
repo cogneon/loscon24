@@ -56,3 +56,9 @@ The language of the kimooc24 is German. But of course you can participate in ano
 Wir würden uns freuen, wenn sich in Regionen und Organisationen wieder größere Lerngruppen formieren würden. Das kann z.B. eine Anlaufstelle im Intranet, das gemeinsame Verfolgen der Livesession im Besprechungsraum oder das Treffen im Coworking Space sein. Tragt Euch selbst und Eure Lerngruppen in unsere [kimooc24 Map](https://padlet.com/loscon1/kimooc24) ein (Tipp: durch Klick auf den Pfeil an der Karte oben rechts öffnet sich die Karte groß in neuem Fenster).
 
 <div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/moehod4uby24ibt9" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="display:flex;align-items:center;justify-content:end;margin:0;height:28px"><a href="https://padlet.com?ref=embed" style="display:block;flex-grow:0;margin:0;border:none;padding:0;text-decoration:none" target="_blank"><div style="display:flex;align-items:center;"><img src="https://padlet.net/embeds/made_with_padlet_2022.png" width="114" height="28" style="padding:0;margin:0;background:0 0;border:none;box-shadow:none" alt="Mit Padlet erstellt"></div></a></div></div>
+
+## kimooc24 Learning Circle
+
+In dieses Pad könnt ihr eure Learning Circles im lernOS KI MOOC eintragen. Verlinkt dort gerne Angebote zu Peerfinder oder P2PU, wenn ihr noch Mitlernende sucht. Wenn euer Circle schon voll ist, verschiebt den Eintrag in die untere Liste.
+
+<iframe name="embed_readwrite" src="https://pad.cogneon.io/p/loscon24circles?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
