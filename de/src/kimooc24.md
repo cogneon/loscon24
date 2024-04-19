@@ -57,6 +57,7 @@ Wir würden uns freuen, wenn sich in Regionen und Organisationen wieder größer
 
 <div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/moehod4uby24ibt9" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="display:flex;align-items:center;justify-content:end;margin:0;height:28px"><a href="https://padlet.com?ref=embed" style="display:block;flex-grow:0;margin:0;border:none;padding:0;text-decoration:none" target="_blank"><div style="display:flex;align-items:center;"><img src="https://padlet.net/embeds/made_with_padlet_2022.png" width="114" height="28" style="padding:0;margin:0;background:0 0;border:none;box-shadow:none" alt="Mit Padlet erstellt"></div></a></div></div>
 
+
 ## kimooc24 Learning Circle
 
 In dieses Pad könnt ihr eure Learning Circles im lernOS KI MOOC eintragen. Verlinkt dort gerne Angebote zu Peerfinder oder P2PU, wenn ihr noch Mitlernende sucht. Wenn euer Circle schon voll ist, verschiebt den Eintrag in die untere Liste.
