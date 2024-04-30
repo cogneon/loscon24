@@ -42,6 +42,8 @@ Der lernOS KI MOOC ist kostenfrei und für alle offen. So kannst du dir ganz ein
 ## 🏳️‍🌈 Not speaking German? 🏳️‍🌈
 The language of the kimooc24 is German. But of course you can participate in another language. We will provide an English version of the lernOS AI Guide. We use Microsoft Teams Premium for the live sessions so you can [use the live translation feature](https://insider.microsoft365.com/ja-jp/blog/live-translated-transcript-for-teams-premium-users). You can ask questions in English in the chat. You can start learning circles in any language you want. The lernOS community is a diverse bunch of people - all creatures welcome!
 
+**Update:** In the first livesession at 6th of May there will also be a (human-powered 🙋‍♀️) simultaneous translation from German to English. We will use the feature built-in in Microsoft Teams ([instruction](https://support.microsoft.com/en-au/office/use-language-interpretation-in-microsoft-teams-meetings-b9fdde0f-1896-48ba-8540-efc99f5f4b2e#bkmk_change_language_channel)).
+
 ## Tipps & Tricks zur MOOC-Teilnahme
 1. Nutze **Tools** wie den [Peerfinder](https://web.peerfinder.app/de), um Mit-Lernende für Deine Lerngruppe zu finden
 1. Nutze den **Hashtag #kimooc24**, wenn Du über den MOOC in Sozialen Medien schreibst (z.B. Linkedin, Mastodon)
