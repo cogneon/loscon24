@@ -6,7 +6,27 @@ comments: true
 
 Der **lernOS Künstliche Intelligenz (KI) MOOC** (#kimooc24) ist ein [Massive Open Online Course](https://de.wikipedia.org/wiki/Massive_Open_Online_Course) zur Erprobung des [neuen lernOS KI Leitfadens](https://community.cogneon.de/t/ein-lernos-leitfaden-zu-kuenstlicher-intelligenz-in-der-praxis-von-wissensarbeiter-innen/3872). Der MOOC findet **vom 6. Mai bis 21. Juni 2024** im Vorfeld der lernOS Convention statt. Für die fünf MOOC-Wochen solltet ihr euch ca. **2 Stunden Zeit pro Woche** einplanen.
 
-<button type="button"><a href="https://www.meetup.com/cogneon/events/297769514/" target="_blank">Anmelden über meetup.com</a></button> <button type="button"><a href="https://loscon.lernos.org/de-slides" target="_blank">kimooc24 Präsentation</a></button>
+
+!!! Kann ich jetzt noch in den MOOC einsteigen?
+    Ja, klar, ein Einstieg in den MOOC ist jederzeit noch möglich. Melde Dich unten zu den verbleibenden Livesessions an und sieh Dir die [Aufzeichnung der ersten Livesession](https://www.youtube.com/watch?v=whzL1cvCe8Q) an. Dann musst du thematisch den Anschluss finden, z.B. indem du dich einem bestehenden Learning Circle anschließt (einfach mal auf dem Circle-Marktplatz oder den sozialen Netzwerken umhören).
+
+
+## Quicklinks & Termine
+
+- [lernOS KI Leifaden](https://ai.lernos.org) (DE und EN)
+- [kimooc24 Präsentation](https://loscon.lernos.org/de-slides)
+
+In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Pfingsferien) finden jeweils **montags von 13:00 - 14:00 Uhr Live-Sessions** per Microsoft Teams statt (ja, wir zeichnen auf 😉):
+
+- **Woche 1 (06.-10.05.):** Teaming up with AI - Die ersten Schritte (Katas 0, 1, 2)
+- [**Woche 2 (13.-17.05.):**](https://www.meetup.com/cogneon/events/299810267/) KI auf dem Prüfstand - What's in it for me? (Katas 3, 4, 5)
+- **20.-24.05.:** Kein Programm (Pfingsten)
+- **27.-31.05.:** Kein Programm (Pfingsten)
+- [**Woche 3 (03.-07.06.):**](https://www.meetup.com/cogneon/events/299810273/) Mein erster Blog- oder Social-Media-Beitrag mit KI-Support (Katas 6, 7, 8, 9)
+- [**Woche 4 (10.-14.06.):**](https://www.meetup.com/cogneon/events/299810277/) Prompting like a Pro - Prompt Engineering verstehen und anwenden (Katas 10, 11)
+- [**Woche 5 (17.-21.06.):**](https://www.meetup.com/cogneon/events/299810864/) Cool down - was haben wir gelernt? (Kata 12)
+- Optional: Vor-Ort-Teilnahme zum Abschluss am 21.06. in der Cogneon Akademie in Nürnberg ([Anmeldung](https://community.cogneon.de/t/lernos-ki-mooc-in-der-cogneon-akademie-nuernberg-de/3976)).
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EOoB-WDLp9U?si=pExDtBGpNKfyL-CU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <nbsp;>
@@ -16,18 +36,6 @@ Ein MOOC ist ein großer, für alle offener Online-Kurs, an dem sehr viele Mensc
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HsOJc86Y8Lk?si=hYbyzFiwnf_YQsXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <nbsp;>
-
-## Der lernOS KI MOOC
-
-In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Pfingsferien) finden jeweils **montags von 13:00 - 14:00 Uhr Live-Sessions** per Microsoft Teams statt (ja, wir zeichnen auf 😉):
-
-- **Woche 1 (06.-10.05.):** Teaming up with AI - Die ersten Schritte (Katas 0, 1, 2)
-- **Woche 2 (13.-17.05.):** KI auf dem Prüfstand - What's in it for me? (Katas 3, 4, 5)
-- **20.-24.05.:** Kein Programm (Pfingsten)
-- **27.-31.05.:** Kein Programm (Pfingsten)
-- **Woche 3 (03.-07.06.):** Mein erster Blog- oder Social-Media-Beitrag mit KI-Support (Katas 6, 7, 8, 9)
-- **Woche 4 (10.-14.06.):** Prompting like a Pro - Prompt Engineering verstehen und anwenden (Katas 10, 11)
-- **Woche 5 (17.-21.06.):** Cool down - was haben wir gelernt? (Kata 12)
 
 ## So kannst Du mitmachen
 Der lernOS KI MOOC ist kostenfrei und für alle offen. So kannst du dir ganz einfach einen Platz sichern:
