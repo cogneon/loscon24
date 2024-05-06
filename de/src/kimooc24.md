@@ -17,6 +17,7 @@ Die wichtigsten Links zur Teilnahme am MOOC:
 - [lernOS KI Leifaden](https://ai.lernos.org) (DE und EN)
 - [kimooc24 Präsentation](https://loscon.lernos.org/de-slides)
 - [kimooc24 Map](https://padlet.com/loscon1/kimooc24-loscon24-map-moehod4uby24ibt9)
+- [kimooc24 Circle Marktplatz](https://pad.cogneon.io/p/loscon24circles) (zusätzlich Kanal Suche-Biete auf Discord und Soziale Netzwerke nutzen)
 
 In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Pfingsferien) finden jeweils **montags von 13:00 - 14:00 Uhr Live-Sessions** per Microsoft Teams statt (ja, wir zeichnen auf 😉). Meldet Euch bitte zu den Livesessions an, damit ihr eine Erinnerung bekommt und wir planen können (Klick auf Datum führt Euch zur Anmeldung auf meetup.com):
 
