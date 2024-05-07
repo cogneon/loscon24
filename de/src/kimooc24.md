@@ -26,6 +26,7 @@ In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Pfingsfer
 - **20.-24.05.:** Keine Livesession (Pfingsten)
 - **27.-31.05.:** Keine Livesession (Pfingsten)
 - [**Woche 3 (03.-07.06.):**](https://www.meetup.com/cogneon/events/299810273/) Mein erster Blog- oder Social-Media-Beitrag mit KI-Support (Katas 6, 7, 8, 9)
+   - **06.06. von 15-17 Uhr:** Optionaler Workshop "Hands-on KI Training: Konkrete Business Cases interaktiv lösen" mit meinGPT.com ([Anmeldung](https://www.meetup.com/cogneon/events/300880915/))
 - [**Woche 4 (10.-14.06.):**](https://www.meetup.com/cogneon/events/299810277/) Prompting like a Pro - Prompt Engineering verstehen und anwenden (Katas 10, 11)
 - [**Woche 5 (17.-21.06.):**](https://www.meetup.com/cogneon/events/299810864/) Cool down - was haben wir gelernt? (Kata 12)
 - **MOOC Abschluss 21.06.:** Vor-Ort-Teilnahme zum Abschluss am 21.06. in der Cogneon Akademie in Nürnberg ([Anmeldung](https://community.cogneon.de/t/lernos-ki-mooc-in-der-cogneon-akademie-nuernberg-de/3976)).
