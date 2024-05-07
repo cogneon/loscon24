@@ -14,7 +14,7 @@ Der **lernOS Künstliche Intelligenz (KI) MOOC** (#kimooc24) ist ein [Massive Op
 ## Quicklinks & Termine
 Die wichtigsten Links zur Teilnahme am MOOC:
 
-- [lernOS KI Leifaden](https://ai.lernos.org) (DE und EN)
+- [lernOS KI Leifaden](https://ai.lernos.org) (DE und EN), Leitfaden als [Onenote Vorlage](https://cloud.cogneon.de/s/yxH9skTqxA8war2)
 - [kimooc24 Präsentation](https://loscon.lernos.org/de-slides)
 - [kimooc24 Map](https://padlet.com/loscon1/kimooc24-loscon24-map-moehod4uby24ibt9)
 - [kimooc24 Circle Marktplatz](https://pad.cogneon.io/p/loscon24circles) (zusätzlich Kanal Suche-Biete auf Discord und Soziale Netzwerke nutzen)
