@@ -18,6 +18,7 @@ Die wichtigsten Links zur Teilnahme am MOOC:
 - [kimooc24 Präsentation](https://loscon.lernos.org/de-slides)
 - [kimooc24 Map](https://padlet.com/loscon1/kimooc24-loscon24-map-moehod4uby24ibt9)
 - [kimooc24 Circle Marktplatz](https://pad.cogneon.io/p/loscon24circles) (zusätzlich Kanal Suche-Biete auf Discord und Soziale Netzwerke nutzen)
+- [Podcast-Kuration zum KI Leitfaden](https://fyyd.de/user/simondueckert/curation/4de6841998c08322167367111e55457f) auf fyyd ([Abonnieren](https://feeds.fyyd.de/simondueckert/4de6841998c08322167367111e55457f))
 
 In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Pfingsferien) finden jeweils **montags von 13:00 - 14:00 Uhr Live-Sessions** per Microsoft Teams statt (ja, wir zeichnen auf 😉). Meldet Euch bitte zu den Livesessions an, damit ihr eine Erinnerung bekommt und wir planen können (Klick auf Datum führt Euch zur Anmeldung auf meetup.com):
 
