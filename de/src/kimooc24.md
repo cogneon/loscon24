@@ -26,13 +26,12 @@ In den **fünf MOOC-Wochen des lernOS KI MOOCs** (kein Programm in den Pfingsfer
 
 - **Woche 1 (06.-10.05., [Aufzeichnung](https://www.youtube.com/watch?v=whzL1cvCe8Q) ([english version](https://youtu.be/9CoKot8G6uw)), [Transkript](https://cloud.cogneon.de/s/wR6J9FgKtxJ6xfM), [Links aus Chat](https://community.cogneon.de/t/lernos-ki-mooc-links-aus-dem-chat/4008)):** Teaming up with AI - Die ersten Schritte (Katas 0, 1, 2)
 - **Woche 2 (13.-17.05., [Aufzeichnung](https://youtu.be/I3hQEDTUlEc)):** KI auf dem Prüfstand - What's in it for me? (Katas 3, 4, 5)
-- **20.-24.05.:** Keine Livesession (Pfingsten)
-- **27.-31.05.:** Keine Livesession (Pfingsten)
-- [**Woche 3 (03.-07.06.):**](https://www.meetup.com/cogneon/events/299810273/) Mein erster Blog- oder Social-Media-Beitrag mit KI-Support (Katas 6, 7, 8, 9)
+- **20.-31.05.:** Keine Livesession (Pfingsten)
+- **Woche 3 (03.-07.06., [Livesession 03.06.](https://www.meetup.com/cogneon/events/299810273/)):** Mein erster Blog- oder Social-Media-Beitrag mit KI-Support (Katas 6, 7, 8, 9)
    - **06.06. von 15-17 Uhr:** Optionaler Workshop "Hands-on KI Training: Konkrete Business Cases interaktiv lösen" mit meinGPT.com ([Anmeldung](https://www.meetup.com/cogneon/events/300880915/))
-- [**Woche 4 (10.-14.06.):**](https://www.meetup.com/cogneon/events/299810277/) Prompting like a Pro - Prompt Engineering verstehen und anwenden (Katas 10, 11)
-- [**Woche 5 (17.-21.06.):**](https://www.meetup.com/cogneon/events/299810864/) Cool down - was haben wir gelernt? (Kata 12)
-- **MOOC Abschluss 21.06.:** Vor-Ort-Teilnahme zum Abschluss am 21.06. in der Cogneon Akademie in Nürnberg ([Anmeldung](https://community.cogneon.de/t/lernos-ki-mooc-in-der-cogneon-akademie-nuernberg-de/3976)).
+- **Woche 4 (10.-14.06., [Livesession 10.06.](https://www.meetup.com/cogneon/events/299810277/)):** Prompting like a Pro - Prompt Engineering verstehen und anwenden (Katas 10, 11)
+- **Woche 5 (17.-21.06., [Livesession 17.06.](https://www.meetup.com/cogneon/events/299810864/)):** Cool down - was haben wir gelernt? (Kata 12)
+- **MOOC Abschluss (21.06., [Livesssion 21.06.](https://www.meetup.com/de-DE/cogneon/events/301032947/?isFirstPublish=true)):** Optionale Vor-Ort-Teilnahme zum Abschluss am 21.06. (10-16 Uhr) in der Cogneon Akademie in Nürnberg ([Anmeldung](https://community.cogneon.de/t/lernos-ki-mooc-in-der-cogneon-akademie-nuernberg-de/3976)).
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EOoB-WDLp9U?si=pExDtBGpNKfyL-CU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
