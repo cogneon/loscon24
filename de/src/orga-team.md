@@ -1,6 +1,6 @@
 # Orga-Team
 
-Das Orga-Team hat ab dem 02.02.2024 einen **wöchentlichen Orga-Call** jeweils **Freitags von 10:00 - 11:00 Uhr** per MS Teams. Die Retro ist am 12.07.2024 von 10:00 - 11:00 Uhr.
+Das Orga-Team hat ab dem 02.02.2024 einen **wöchentlichen Orga-Call** jeweils **Freitags von 10:00 - 11:00 Uhr** per MS Teams. Die Retro ist am 12.07.2024 von 10:00 - 11:00 Uhr. Ihr erreicht das Orga-Team oer Email unter [loscon@lernos.org](mailto:loscon@lernos.org?subject=loscon24%20Kontakt%20Infoseite).
 
 ## Infrastruktur
 
@@ -14,9 +14,7 @@ Das Orga-Team hat ab dem 02.02.2024 einen **wöchentlichen Orga-Call** jeweils *
 1. [Benedikt Scheerer](https://www.linkedin.com/in/benedikt-scheerer-6020ba18/)
 1. [Christian Kaiser](https://www.linkedin.com/in/christian-kaiser-datev/)
 1. [Frank Gerich](https://www.linkedin.com/in/frank-gerich/)
-1. [Gabriele Schobess](https://www.linkedin.com/in/gabriele-schobess/) (remote)
 1. [Hans Gaertner](https://www.linkedin.com/in/hgaertner/)
-1. [Magnus Rode](https://www.linkedin.com/in/magnusrode/)
 1. [Marcel Kirchner](https://www.linkedin.com/in/marcelkirchner/)
 1. [Nicole Denzel](https://www.linkedin.com/in/nicoledenzel/)
 1. [Oliver Ewinger](https://www.linkedin.com/in/oliver-ewinger/)
@@ -24,6 +22,5 @@ Das Orga-Team hat ab dem 02.02.2024 einen **wöchentlichen Orga-Call** jeweils *
 1. [Sandra Richter](https://www.linkedin.com/in/sandra-richter-coach/) (remote)
 1. [Simon Dückert](https://www.linkedin.com/in/simondueckert/)
 1. [Susann Schulz](https://www.linkedin.com/in/susannschulz/)
-1. **DU?**
 
-Wer noch bei der Organisation mithelfeen mag, egal ob mit viel oder weniger Zeit, kann sich gerne jederzeit [bei Simon melden](mailto:simon.dueckert@cogneon.de?subject=loscon%20Orga).
+Wer noch vor Ort in Nürnberg bei der Organisation mithelfen mag, egal ob mit viel oder weniger Zeit, kann sich gerne jederzeit [bei Simon melden](mailto:simon.dueckert@cogneon.de?subject=loscon%20Orga).

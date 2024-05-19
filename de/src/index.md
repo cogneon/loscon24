@@ -37,13 +37,12 @@ Als Multiformat-Event wird die lernOS Convention wieder ein vielfältiges Angebo
 - **01.03.:** Start Promo und Social Media Aktivitäten
 - **04.03.:** Golive [Call for Participation](https://pretalx.com/loscon24/cfp) (Einreichung von Programmvorschlägen)
 - **06.05.-21.06.:** [lernOS Künstliche Intelligenz (KI) MOOC](kimooc24.md)
-- **01.06.:** Programm Version 1.0 ist fertig (kuratiertes Programm, nicht Barcamp-Sessions)
+- **01.06.:** Programm Version 1.0 ist fertig (kuratiertes Programm, Hälfte der Barcamp-Sessions)
 - **25.06.:** Vorab-Webkonferenz (13:00 - 14:00 Uhr), Infomail an Teilnehmer:innen mit Einladung in loscon24-Discord-Server und Kalendereinträgen
-- **26.06.:** Programm Version 2.0 ist fertig (Barcamp-Sessions)
 - **01.07.:** Aufbau in der Burg (voraussichtlich ab Mittag)
-- **01.07.:** Vorabend-Treffen voraussichtlich bei der Eröffnungsveranstaltung des [Nürnberg Digital Festivals](https://nuernberg.digital)
+- **01.07.:** [Vorabend-Treffen](eve.md) bei der Eröffnungsveranstaltung des [Nürnberg Digital Festivals](https://nuernberg.digital) (kostenlose Anmeldung notwendig)
 - **02.-03.07.:** [lernOS Convention 2024](https://cogneon.de/loscon24)
-- **12.07.:** loscon24 Retro (10:00 - 11:00 Uhr)
+- **12.07.:** loscon24 Retro des [Orga-Teams](orga-team.md) (10:00 - 11:00 Uhr)
 
 # Eindrücke der loscon23
 
