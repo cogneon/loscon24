@@ -26,7 +26,7 @@ Als Multiformat-Event wird die lernOS Convention wieder ein vielfältiges Angebo
 1. **Podcast-Tisch** zum Erlernen von Podcasting und zur Aufnahme von Episoden (s.a. [lernOS Podcast Leitfaden](https://cogneon.github.io/lernos-podcasting/de/))
 1. **Vernetzungsteische**, damit sich auch Neueinsteiger:innen schnell in die Community eingebunden fühlen
 1. **Flanieren** mit guten Gesprächen im [Burggarten der Kaiserburg](https://www.schloesser.bayern.de/deutsch/garten/objekte/nbg_burg.htm)
-1. **Abendprogramm** mit Prompt Battle, bei dem sich 8 Personen im Prompten messen können
+1. **Abendprogramm** mit Musik und Prompt Battle ([Beispiel](https://www.youtube.com/watch?v=c8oRlMp-XdE)), bei dem sich 8 Personen im Prompten messen können
 
 # Wichtige Termine
 
