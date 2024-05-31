@@ -8,7 +8,7 @@ Die **8. lernOS Convention** ([#loscon24](https://colearn.social/tags/loscon24))
 
 Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die **Tickets** für Vor-Ort- und Online-Teilnahme sind [über den Ticketshop](https://pretix.eu/cogneon/loscon24/) verfügbar.
 
-<button type="button"><a href="https://pretix.eu/cogneon/loscon24/" target="_blank">Zur loscon24 anmelden</a></button> <button type="button"><a href="https://cogneon.de/2024/05/18/generative-ki-als-wissensgefaehrte-das-thema-der-lernos-convention-2024/" target="_blank">Blog zum loscon24 Thema</a></button>
+<button type="button"><a href="https://pretalx.com/loscon24/schedule/" target="_blank">Programm</a></button> <button type="button"><a href="https://pretix.eu/cogneon/loscon24/" target="_blank">Zur loscon24 anmelden</a></button> <button type="button"><a href="https://cogneon.de/2024/05/18/generative-ki-als-wissensgefaehrte-das-thema-der-lernos-convention-2024/" target="_blank">Blog zum loscon24 Thema</a></button>
 
 !!! Tipp
     Der [Call for Participation](https://pretalx.com/loscon24/cfp) (CfP) ist schon geöffnet, ihr könnt bereits **Lightning Talks** mit Erfahrungsberichten aus dem lernOS KI MOOC und Vorschläge für **Sessions** mit KI-Bezug einreichen.
@@ -37,7 +37,7 @@ Als Multiformat-Event wird die lernOS Convention wieder ein vielfältiges Angebo
 - **01.03.:** Start Promo und Social Media Aktivitäten
 - **04.03.:** Golive [Call for Participation](https://pretalx.com/loscon24/cfp) (Einreichung von Programmvorschlägen)
 - **06.05.-21.06.:** [lernOS Künstliche Intelligenz (KI) MOOC](kimooc24.md)
-- **01.06.:** Programm Version 1.0 ist fertig (kuratiertes Programm, Hälfte der Barcamp-Sessions)
+- **01.06.:** [Programm](https://pretalx.com/loscon24/schedule/) Version 1.0 ist fertig (kuratiertes Programm, Hälfte der Barcamp-Sessions)
 - **25.06.:** Vorab-Webkonferenz (13:00 - 14:00 Uhr), Infomail an Teilnehmer:innen mit Einladung in loscon24-Discord-Server und Kalendereinträgen
 - **01.07.:** Aufbau in der Burg (voraussichtlich ab Mittag)
 - **01.07.:** [Vorabend-Treffen](eve.md) bei der Eröffnungsveranstaltung des [Nürnberg Digital Festivals](https://nuernberg.digital) (kostenlose Anmeldung notwendig)
