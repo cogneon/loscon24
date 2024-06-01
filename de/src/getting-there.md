@@ -11,13 +11,16 @@ Wir haben für Euch bei der Bahn ein extra Veranstaltungsticket organisiert, mit
 - **Option 2:** Ab **Hauptbahnhof** zum **Plärrer** (U3 Richtung Großreuth) und dann mit dem Bus 36 zur **Haltestelle Burgstraße**
 
 ## Hotelempfehlungen
+Hinweis: die Hotels mit dem vorangestellten 🌱 verfügen über ein Nachhaltigkeitszertifikat.
 
 - [Deutsche Jugendherberge Nürnberg](https://www.jugendherberge.de/jugendherbergen/nuernberg/) (haben 2-6-Bettzimmer, muss an aber frühzeitig buchen)
-- [Azimut Hotel](https://azimuthotels.de/de/nuremberg/azimut-hotel-nuremberg)
+- 🌱 [Azimut Hotel](https://azimuthotels.de/de/nuremberg/azimut-hotel-nuremberg)
 - [Burghotel Nürnberg](https://www.burghotel-nuernberg.de/)
 - [Design Hotel Vosteen](https://www.hotel-vosteen.de/)
 - [Dürer Hotel](https://www.duerer-hotel.de/)
-- [Motel One am Hauptbahnhof](https://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-hauptbahnhof/) (Dachterasse mit schönem Blick auf die Burg)
+- 🌱 [Motel One Nürnberg City](https://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-hauptbahnhof/) (Dachterasse mit schönem Blick auf die Burg)
+- 🌱 [Motel One Nürnberg Plärrer](https://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-plaerrer/) (Dachterasse mit schönem Blick auf die Burg)
+- [The Cloud One](https://www.the-cloud-one.com/de/hotels/nuernberg/hotel-nuernberg/)
 - [Hotel Burgschmiet](https://www.hotel-burgschmiet.de/)
 - [Hotel Elch](https://hotel-elch.de/)
 
