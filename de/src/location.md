@@ -6,7 +6,7 @@ Die [Nürnberger Burg](https://de.wikipedia.org/wiki/N%C3%BCrnberger_Burg) ist d
 
 ## Adresse
 
-Burg Nürnberg, Burg 2, 90403 Nürnberg ([OpenStreetMap](https://openstreetmap.de/karte/?zoom=19&lat=49.45794&lon=11.07699&layers=B00TT), [Google Map](https://maps.app.goo.gl/VuHSpyymTumF3mmG6))
+Burg Nürnberg, Burg 2, 90403 Nürnberg ([OpenStreetMap](https://openstreetmap.de/karte/?zoom=19&lat=49.45794&lon=11.07699&layers=B00TT), [Google Map](https://maps.app.goo.gl/VuHSpyymTumF3mmG6)). Der Eingang zur loscon befindet sich an der linken Seite des Gebäudes, ihr müsst ein bisschen den Berg nach oben gehen (unterhalb des Fünfeck-Turms).
 
 ![](img/map-castle-nuremberg.png)
 
@@ -15,7 +15,7 @@ In der Burg nutzen wir folgende Räumlichkeiten (s.a. [Tagen in Nürnberg](https
 
 - **Foyer:** Empfang und Garderobe
 - **Eppeleinsaal:** Coworking & Plenum
-- **Räume 6-9:** Breakout-Räume für Sessions und Workshops
+- **Räume 6-9:** Breakout-Räume für Sessions und Workshops; die Räume sind im Programm benannt als Auenland, Gondor, Mordor und Rohan (von links nach rechts)
 - **Foyer (1.Stock):** Sofas für private Gespräche und individuelle Teilnahme an Konferenzen
 
 ## Umgebung

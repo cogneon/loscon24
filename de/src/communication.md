@@ -1,4 +1,7 @@
 # Kommunikationskanäle
+Wir haben versucht, die wichtigsten Informationen auf den Infoseiten zu dokumentieren. In der Seitenleiste findet ihr eine Suchfunktion. Mit den [loscon24 Chatbot](https://chatgpt.com/g/g-HU2NyTzOF-loscon24-chatbot) könnt ihr aber auch mit den Infoseiten und dem Programm chatten (ChatGPT-Konto notwendig).
+
+<button type="button"><a href="https://chatgpt.com/g/g-HU2NyTzOF-loscon24-chatbot" target="_blank">loscon24 Chatbot</a></button>
 
 ## Vor der Veranstaltung
 - Die **Linkedin-Seite** [lernOS](https://www.linkedin.com/showcase/28494203/) informiert über die loscon. Auf der Seite ist ein **Linkedin-Event** [lernOS Convention 2024](https://www.linkedin.com/events/7154408147812499456/comments/) angelegt. Nehmt an dem Event teil, damit Eurer Netzwerk davon mitbekommt. Das Ticket kann nicht über Linkedin gekauft werden.

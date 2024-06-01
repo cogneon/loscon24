@@ -7,6 +7,11 @@ Natürlich freuen wir uns jedes Jahr darauf, die ganze lernOS Community in der K
 1. Catering (10%)
 1. Energie, Stromverbrauch, Heizbedarf, Wasserverbrauch, Müllentsorgung (Rest)
 
-Wir werden im Orga-Team die Checkliste im BMUV Leitfaden durcharbeiten, entsprechende Maßnahmen ergreifen und die kommentierte Checkliste hier veröffentlichen.
+Wir werden im Orga-Team die Checkliste im BMUV Leitfaden durcharbeiten, entsprechende Maßnahmen ergreifen und die kommentierte Checkliste hier veröffentlichen. Wir bitten alle Teilnehmer:innen der lernOS Convention auch von sich aus auf die Nachhaltigkeit ihres Verhaltens zu achten.
 
-Wir bitten alle Teilnehmer:innen der lernOS Convention auch von sich aus auf die Nachhaltigkeit ihres Verhaltens zu achten.
+**Unsere Maßnahmen im Überblick:**
+
+1. **Anreise mit der Bahn:** mit unserem [loscon24 Veranstaltungsticket](getting-there.md) reist ihr mit der Bahn vergünstigt an (wichtig: im Zug müsst ihr Euer loscon Ticket vorzeigen können)
+1. **Catering:** unser Catering für die Abendveranstalung bestellen wir beim [Regionalanbieter Meyer](https://metzgerei-meyer.de/wissenswertes/heimat-handwerk/). Die [Verpflegung über die Burg](https://www.jugendherberge.de/bayern/service/wir-ueber-uns/unsere-verantwortung/bio-ist-besser/) ist nachhaltig und biologisch.
+1. **Druckerzeugnisse:** alle für die Veranstaltung bestellten Druckerzeugnisse sind wo möglich auf Umweltpapier (blauer Engel) und mit der Option "Klimaneutral drucken" bestellt.
+1. **Namensschilder:** die Lanyards für die Namesschilder [sind aus Recyclingmaterial](https://www.wir-machen-druck.de/lanyards-recycling-mit-einem-haken-extrem-guenstig-online-bestellen,category,22829.html). Sie sind neutral bedruckt (lernOS, Keep Calm & Learn On), damit wir sie für andere Veranstaltungen wiederverwenden können. Als Namensschild verwenden wir eine [klimaneutral bedruckte RFID-Karte](https://www.wir-machen-druck.de/bedruckte-rfid-plastikkarten-extrem-guenstig,category,14294.html), die für andere Veranstaltungen wiederverwendet werden kann. Wir bitten alle Teilnehmer:innen, schon vorhandene Kartenhüllen [mitzubringen](to-bring.md). Wer keine Hülle hat, bekommt von uns eine [Kartenhülle aus recyceltem Polypropylen](https://www.karteo.de/Bio-PP-Ausweishuellen-Weichplastik-horizontal), das biologisch abbaubar ist.
