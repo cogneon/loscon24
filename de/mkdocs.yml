@@ -32,8 +32,8 @@ nav:
   - Archiv: archive.md
 - Toolset:
   - Netzwerk: network.md
+  - Teams & HMK: hmk.md
   - Discord: discord.md
-  - Hybrid Meeting Kit: hmk.md
 - Orga:
   - Orga-Team: orga-team.md
   - Design: design.md
@@ -71,4 +71,3 @@ markdown_extensions:
 plugins:
   - search
   - rss
-  - markmap
