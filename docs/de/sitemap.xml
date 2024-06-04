@@ -116,6 +116,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://loscon.lernos.org/podcasting/</loc>
+         <lastmod>2024-06-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://loscon.lernos.org/pre-call/</loc>
          <lastmod>2024-06-04</lastmod>
          <changefreq>daily</changefreq>
