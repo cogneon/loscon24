@@ -9,4 +9,4 @@ Auf den Postern der lernOS Convention (#loscon23) steht schon seit dem ersten Ma
 - Microsoft Teams (Web-Version): xx/100
 - Discord (Web-Version): xx/100
 
-**Hinweis:** nachdem unser **Whiteboard** (Conceptboard) mit **72/100 Punkten** einen recht schlechten Wert der Barrierefreiheit hatte und sich Whiteboards für hybride Events ohnehin nicht so gut eignenen (schlecht mit mobilen Endgeräten zu bedienen, nicht responsiv), werden wir dieses Jahr voraussichtlich auf ein Whiteboard verzichten.
+**Hinweis:** nachdem unser **Whiteboard** (Conceptboard) mit **72/100 Punkten** einen recht schlechten Wert der Barrierefreiheit hatte und sich Whiteboards für hybride Events ohnehin nicht so gut eignenen (schlecht mit mobilen Endgeräten zu bedienen, nicht responsiv), werden wir dieses Jahr auf ein Whiteboard verzichten.
