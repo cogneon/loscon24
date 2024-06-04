@@ -1,6 +1,6 @@
 # Merch
 
-Wie jedes Jahr haben wir einen [Merch-Shop auf Spreadshirt](https://loscon24-merch-shop.myspreadshop.de/) angelegt. Es gibt T-Shirts, Tassen und Kappen gegen die Sonne. Das Motiv der Wissensgefährtinnen gibt es in drei Varianten:
+Wie jedes Jahr haben wir einen [Merch-Shop auf Spreadshirt](https://loscon24-merch-shop.myspreadshop.de/) angelegt. Es gibt T-Shirts, Tassen und Kappen gegen die Sonne. Das Motiv der Wissensgefährt:innen gibt es in drei Varianten:
 
 1. Männlich: "Wissensgefährte"
 1. Weiblich: "Wissensgefährtin"
