@@ -126,6 +126,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://loscon.lernos.org/smartcard/</loc>
+         <lastmod>2024-06-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://loscon.lernos.org/sustainability/</loc>
          <lastmod>2024-06-04</lastmod>
          <changefreq>daily</changefreq>
