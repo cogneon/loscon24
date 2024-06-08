@@ -12,6 +12,7 @@ Die lernOS Smartcard hat einen Mifare Classic 1k RFID-Chip, weil die als einzig 
 Deswegen haben wir auf die Smart Card zusätzlich einen NTAG215 Chip geklebt, den ihr mit den o.g. Apps beschreiben könnt (z.B. mit Link zu eurem Linkedin-Profil). Es gibt aber wohl [Möglichkeiten](https://stackoverflow.com/questions/28575454/format-read-write-ndef-mifare-1k-card-using-libnfc), den Mifare-Chip im kompatiblen Format NDEF zu beschreiben. Wer herausfindet, wie das geht, bekommt von uns ein lernOS Maskottchen Suri.
 
 **Links:**
+
 - [AN1305 MIFARE Classic as NFC Type MIFARE Classic Tag](https://www.nxp.com/docs/en/application-note/AN1305.pdf)
 - [Adafruit Library](https://github.com/adafruit/Adafruit-PN532/blob/master/examples/mifareclassic_formatndef/mifareclassic_formatndef.ino)
 - [Mimcd](https://code.google.com/archive/p/micmd/)
