@@ -63,6 +63,8 @@
                   </li>
                   <li class="toctree-l1 current"><a class="reference internal current" href="#">lernOS Smart Card</a>
     <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#challenge">Challenge</a>
+    </li>
     </ul>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../to-bring/">Mitbringen</a>
@@ -147,12 +149,17 @@
             <div class="section" itemprop="articleBody">
               
                 <h1 id="lernos-smart-card">lernOS Smart Card</h1>
-<p>Als <strong>Namensschild</strong> erhalten alle Teilnehmer:innen die brandneue <strong>lernOS Smart Card</strong>. Das ist eine Karte, die ihr z.B. mit Name und drei Hashtags beschriften könnt. In die Karte ist aber auch ein <a href="https://de.wikipedia.org/wiki/RFID">RFID</a>-Chip eingebaut (MIFARE 1K). Wir haben die Smart Card mit dem Link zum <a href="https://pretalx.com/loscon24/schedule/">lernOS Programm</a> beschrieben. Mit einer NFC-App könnt ihr auf der Karte aber auch andere Daten speichern (z.B. Link zum eigenen Linkedin/Mastodon-Profil, elektronische Visitenkarte):</p>
-<ul>
-<li>iOS: <a href="https://apps.apple.com/de/app/nfc21-tools/id1496636288">NFC21 Tools</a></li>
-<li>Android: <a href="https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&amp;hl=de&amp;pli=1">NFC Tools</a> (ungetestet)</li>
-</ul>
+<p>Als <strong>Namensschild</strong> erhalten alle Teilnehmer:innen die brandneue <strong>lernOS Smart Card</strong>. Das ist eine Karte, die ihr z.B. mit Name und drei Hashtags beschriften könnt. In die Karte ist aber auch ein <a href="https://de.wikipedia.org/wiki/RFID">RFID</a>-Chip eingebaut (MIFARE 1K). Wir haben die Smart Card mit dem Link zum <a href="https://pretalx.com/loscon24/schedule/">lernOS Programm</a> beschrieben. Mit einer NFC-App könnt ihr auf der Karte aber auch andere Daten speichern (z.B. Link zum eigenen Linkedin/Mastodon-Profil, elektronische Visitenkarte).</p>
+<p>Apps zum Beschreiben: NFC Tools für <a href="https://apps.apple.com/de/app/nfc21-tools/id1496636288">iOS</a> und <a href="https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&amp;hl=de&amp;pli=1">Android</a>.</p>
 <p><img alt="" src="../img/lernos-smart-card.png" /></p>
+<h2 id="challenge">Challenge</h2>
+<p>Die lernOS Smartcard hat einen Mifare Classic 1k RFID-Chip, weil die als einzig wiederbeschreibbare Karte <a href="https://www.wir-machen-druck.de/bedruckte-rfid-plastikkarten-extrem-guenstig,category,14294.html">bei Wir machen Druck angeboten</a> wurde. Leider stellte sich heraus, dass dieser Chip von iPhone und Android nicht ohne weiterers lesbar und beschreibbar ist 🥲</p>
+<p>Deswegen haben wir auf die Smart Card zusätzlich einen NTAG215 Chip geklebt, den ihr mit den o.g. Apps beschreiben könnt (z.B. mit Link zu eurem Linkedin-Profil). Es gibt aber wohl <a href="https://stackoverflow.com/questions/28575454/format-read-write-ndef-mifare-1k-card-using-libnfc">Möglichkeiten</a>, den Mifare-Chip im kompatiblen Format NDEF zu beschreiben. Wer herausfindet, wie das geht, bekommt von uns ein lernOS Maskottchen Suri.</p>
+<p><strong>Links:</strong>
+- <a href="https://www.nxp.com/docs/en/application-note/AN1305.pdf">AN1305 MIFARE Classic as NFC Type MIFARE Classic Tag</a>
+- <a href="https://github.com/adafruit/Adafruit-PN532/blob/master/examples/mifareclassic_formatndef/mifareclassic_formatndef.ino">Adafruit Library</a>
+- <a href="https://code.google.com/archive/p/micmd/">Mimcd</a></p>
+<p>Wer auf der lernOS Convention ein bisschen bausteln will, wir haben einen <a href="https://www.acs.com.hk/en/products/3/acr122u-usb-nfc-reader/">ACR122U USB NFC Reader</a> und PN532-Module dabei. 😉</p>
               
             </div>
           </div><footer>
