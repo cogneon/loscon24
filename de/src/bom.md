@@ -13,24 +13,28 @@ Verantwortlich: Frank
 1. McGyver Kit: Stifte, Scheeren, Postits, Klebeband
 
 ## Bühne und FOH
-Verantwortlich: Simon, Benedikt
+Verantwortlich: Benedikt, Simon
 
-1. Bühne: Presenter PC (Lenovo X1 Carbon von Simon)
-1. Bühne: Webcam Logitech C930e auf Stativ an Presenter PC (Publikumskamera)
-1. Streaming PC mit Docking Station und Kühler (Lenovo X1 Carbon von Benedikt)
-1. Kamera 1 Canon XA25 auf Stativ (Closeup Kamera)
-1. Kamera 2 Panasonic X929 auf Stative (Totale Bühne)
-1. Kamera 3 GoPro mit Stativklemme (Totale Raum)
-1. Video-Mixer Blackmagic Atem Mini Pro per USB-A USB-A an Docking Station (oder ATEM TV Studio in Case?)
-1. 4xFunkstrecke Sennheiser ... per XLR an Audio Mixer (2x Nackenbügel, 2x Hand?)
-1. Audio Mixer Zoom PodTrak P4 (4xXLR in) per USB-A an Docking Station und per tbd. an PA Eppeleinsaal (XLR oder große Klinke?)
-1. 1x Headset Beyerdynamic DT297 (damit Benedikt mit online sprechen kann, ohne PA an)
+1. Bühne: **Presenter PC** (Lenovo X1 Carbon von Simon)
+1. Bühne: **Webcam** Logitech C930e auf Stativ an Presenter PC (Publikumskamera)
+1. **Streaming PC** mit Kühler an **Docking Station** (Lenovo X1 Carbon von Benedikt)
+1. **Docking Station** Hyper Drive USB-C (2x USB2, 2x USB3, SD, MikroSD, Kinke 3,5mm, LAN, 2x HDMI, 1x Display Port, Stromversorgung über USB-C Netzteil)
+1. **Kamera 1** Canon XA25 auf Stativ (Closeup Kamera)
+1. **Kamera 2** Panasonic X929 auf Stative (Totale Bühne)
+1. **Kamera 3** GoPro mit Stativklemme (Totale Raum)
+1. **Video-Mixer** ATEM TV Studio + Web Presenter per USB-A an Docking Station
+1. 4x **Funkstrecke** Sennheiser XSW per XLR an Audio Mixer (2x Nackenbügel, 2x Hand?)
+1. **Audio Mixer** Zoom PodTrak P4 (4xXLR in) per USB-A an Docking Station und per tbd. an PA Eppeleinsaal (XLR oder große Klinke?)
+1. 1x **Headset** Beyerdynamic DT297 (damit Benedikt mit online sprechen kann, ohne PA an)
+
+Offen: Musik-Einspieler? Kleiner Mixer, auf dem Benedikt & Musik sind?
+Offen: Settings, in denen Bendikt mit Online sprechen, aber nicht vor Ort zu hören ist? -> mit Sandra abstimmen
 
 **Für Prompt Battle:**
 1. tbd.
 1. Preise: Suri S (4), M (3), L (1)
 
-**Für Musik:**
+**Für Musik (Bühne Abends):**
 1. Audio-Mixer (Mackie?)
 
 ## Breakout-Räume
