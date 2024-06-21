@@ -24,7 +24,7 @@ Verantwortlich: Benedikt, Simon
 1. **Kamera 3** GoPro mit Stativklemme (Totale Raum)
 1. **Video-Mixer** ATEM TV Studio + Web Presenter per USB-A an Docking Station
 1. 4x **Funkstrecke** Sennheiser XSW per XLR an Audio Mixer (2x Nackenbügel, 2x Hand?)
-1. **Audio Mixer** Zoom PodTrak P4 (4xXLR in) per USB-A an Docking Station und per tbd. an PA Eppeleinsaal (XLR oder große Klinke?)
+1. **Audio Mixer** Zoom PodTrak P4 (4xXLR in) per USB-A an Docking Station und per Klinke 6,5 mm an PA Eppeleinsaal
 1. 1x **Headset** Beyerdynamic DT297 (damit Benedikt mit online sprechen kann, ohne PA an)
 
 Offen: Musik-Einspieler? Kleiner Mixer, auf dem Benedikt & Musik sind?
