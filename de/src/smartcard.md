@@ -1,10 +1,21 @@
 # lernOS Smart Card
 
-Als **Namensschild** erhalten alle Teilnehmer:innen die brandneue **lernOS Smart Card**. Das ist eine Karte, die ihr z.B. mit Name und drei Hashtags beschriften könnt. In die Karte ist aber auch ein [RFID](https://de.wikipedia.org/wiki/RFID)-Chip eingebaut (MIFARE 1K). Wir haben die Smart Card mit dem Link zum [lernOS Programm](https://pretalx.com/loscon24/schedule/) beschrieben. Mit einer NFC-App könnt ihr auf der Karte aber auch andere Daten speichern (z.B. Link zum eigenen Linkedin/Mastodon-Profil, elektronische Visitenkarte).
-
-Apps zum Beschreiben: NFC Tools für [iOS](https://apps.apple.com/de/app/nfc21-tools/id1496636288) und [Android](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&hl=de&pli=1).
+Als **Namensschild** erhalten alle Teilnehmer:innen die brandneue **lernOS Smart Card**. Das ist eine Karte, die ihr z.B. mit Name und drei Hashtags beschriften könnt. Auf der Karte ist ein NFC-Tag aufgeklebt (und einer eingebaut, s.u.), den wir vorab mit dem Link zum [lernOS Programm](https://pretalx.com/loscon24/schedule/) beschrieben haben. Mit einer NFC-App könnt ihr auf der Karte aber auch andere Daten speichern (z.B. Link zum eigenen Linkedin/Mastodon-Profil, elektronische Visitenkarte).
 
 ![](./img/lernos-smart-card.png)
+
+## Erste Schritte
+Zum beschreiben des NFC-Tags (runder weißer Aufkleber auf der Karte) könnt ihr z.B. die App NFC Tools für [iOS](https://apps.apple.com/de/app/nfc21-tools/id1496636288) oder [Android](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&hl=de&pli=1) verwenden. Dort wählt ihr "Schreiben" und könnt dann verschiedene Arten von Datensätzen auf den Tag schreiben:
+
+![](./img/lernos-tag-app.png)
+
+Einige Ideen für die Verwendung (Eurer Fantasie soll aber keine Grenze gesetzt sein):
+
+1. **URL/URI:** schreibt den Link zu Eurem Linkedin-/Mastodon-Profil oder Eurem Blog auf den Tag (wie im Screenshot oben)
+1. **Soziale Netzwerke:** wie oben, aber mit der direkten Auswahl von sozialen Netzwerken
+1. **E-Mail:** Direkte Kontaktaufnahme per E-Mail (wie *mailto:* Link)
+1. **Kontakt:** Elektronische Visitenkarte mit Name, Firma, Adresse, Telefon, E-Mail und Webseite
+1. **uvm.**
 
 ## Challenge
 Die lernOS Smartcard hat einen Mifare Classic 1k RFID-Chip, weil die als einzig wiederbeschreibbare Karte [bei Wir machen Druck angeboten](https://www.wir-machen-druck.de/bedruckte-rfid-plastikkarten-extrem-guenstig,category,14294.html) wurde. Leider stellte sich heraus, dass dieser Chip von iPhone und Android nicht ohne weiterers lesbar und beschreibbar ist 🥲
