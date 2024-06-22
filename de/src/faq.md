@@ -18,10 +18,10 @@ Na klar, einfach [im Ticketshop](https://pretix.eu/cogneon/loscon24/) auf _Link 
 Microsoft Teams ist in vielen Organisationen das Standard-Tool für Videokonferenzen und daher offiziell erlaubt (anders als z.B. Zoom). Teams reicht aber an die Einfachheit von Discord beim Anlegen von Sprach- und Audio-Kanälen nicht heran. Discord kann wie Teams über Web, Desktop-Anwendung und App verwendet werden.
 
 ## Wann und wie erhalte ich die Einwahldaten?
-Rechtzeitig vor der Veranstaltung erhalten alle angemeldeten Teilnehmer:innen eine Kalendereinladung mit allen Einwahllinks und zusätzlich eine Einladung zum Discord-Server der loscon.
+Rechtzeitig vor der Veranstaltung erhalten alle angemeldeten Teilnehmer:innen eine Einladung auf den loscon24 Discord Server. Dort im Kanal *#programm* befinden sich die Teams-Einwahldaten.
 
 ## Ich/meine Organisation will lernOS Supporter werden, was muss ich tun?
 Die Supporter ermöglicht zusammen mit dem Ticket-Verkauf die Vorbereitung und Durchführung des Camps. Anfragen [gerne per E-Mail](mailto:info@cogneon.de?subject=lernOS%20Supporter).
 
 ## Ich habe noch Fragen, wie erreiche ich das Orga-Team?
-Infos folgen (Linkedin, Email, Discord?)
+Das Orga-Team ist über den Kanal *#infodesk* auf Discord (bevorzugt) und per E-Mail über [loscon@lernos.org](mailto:loscon@lernos.org) erreichbar.
