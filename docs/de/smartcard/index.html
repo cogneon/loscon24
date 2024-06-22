@@ -63,6 +63,8 @@
                   </li>
                   <li class="toctree-l1 current"><a class="reference internal current" href="#">lernOS Smart Card</a>
     <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#erste-schritte">Erste Schritte</a>
+    </li>
     <li class="toctree-l2"><a class="reference internal" href="#challenge">Challenge</a>
     </li>
     </ul>
@@ -149,9 +151,19 @@
             <div class="section" itemprop="articleBody">
               
                 <h1 id="lernos-smart-card">lernOS Smart Card</h1>
-<p>Als <strong>Namensschild</strong> erhalten alle Teilnehmer:innen die brandneue <strong>lernOS Smart Card</strong>. Das ist eine Karte, die ihr z.B. mit Name und drei Hashtags beschriften könnt. In die Karte ist aber auch ein <a href="https://de.wikipedia.org/wiki/RFID">RFID</a>-Chip eingebaut (MIFARE 1K). Wir haben die Smart Card mit dem Link zum <a href="https://pretalx.com/loscon24/schedule/">lernOS Programm</a> beschrieben. Mit einer NFC-App könnt ihr auf der Karte aber auch andere Daten speichern (z.B. Link zum eigenen Linkedin/Mastodon-Profil, elektronische Visitenkarte).</p>
-<p>Apps zum Beschreiben: NFC Tools für <a href="https://apps.apple.com/de/app/nfc21-tools/id1496636288">iOS</a> und <a href="https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&amp;hl=de&amp;pli=1">Android</a>.</p>
+<p>Als <strong>Namensschild</strong> erhalten alle Teilnehmer:innen die brandneue <strong>lernOS Smart Card</strong>. Das ist eine Karte, die ihr z.B. mit Name und drei Hashtags beschriften könnt. Auf der Karte ist ein NFC-Tag aufgeklebt (und einer eingebaut, s.u.), den wir vorab mit dem Link zum <a href="https://pretalx.com/loscon24/schedule/">lernOS Programm</a> beschrieben haben. Mit einer NFC-App könnt ihr auf der Karte aber auch andere Daten speichern (z.B. Link zum eigenen Linkedin/Mastodon-Profil, elektronische Visitenkarte).</p>
 <p><img alt="" src="../img/lernos-smart-card.png" /></p>
+<h2 id="erste-schritte">Erste Schritte</h2>
+<p>Zum beschreiben des NFC-Tags (runder weißer Aufkleber auf der Karte) könnt ihr z.B. die App NFC Tools für <a href="https://apps.apple.com/de/app/nfc21-tools/id1496636288">iOS</a> oder <a href="https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&amp;hl=de&amp;pli=1">Android</a> verwenden. Dort wählt ihr "Schreiben" und könnt dann verschiedene Arten von Datensätzen auf den Tag schreiben:</p>
+<p><img alt="" src="../img/lernos-tag-app.png" /></p>
+<p>Einige Ideen für die Verwendung (Eurer Fantasie soll aber keine Grenze gesetzt sein):</p>
+<ol>
+<li><strong>URL/URI:</strong> schreibt den Link zu Eurem Linkedin-/Mastodon-Profil oder Eurem Blog auf den Tag (wie im Screenshot oben)</li>
+<li><strong>Soziale Netzwerke:</strong> wie oben, aber mit der direkten Auswahl von sozialen Netzwerken</li>
+<li><strong>E-Mail:</strong> Direkte Kontaktaufnahme per E-Mail (wie <em>mailto:</em> Link)</li>
+<li><strong>Kontakt:</strong> Elektronische Visitenkarte mit Name, Firma, Adresse, Telefon, E-Mail und Webseite</li>
+<li><strong>uvm.</strong></li>
+</ol>
 <h2 id="challenge">Challenge</h2>
 <p>Die lernOS Smartcard hat einen Mifare Classic 1k RFID-Chip, weil die als einzig wiederbeschreibbare Karte <a href="https://www.wir-machen-druck.de/bedruckte-rfid-plastikkarten-extrem-guenstig,category,14294.html">bei Wir machen Druck angeboten</a> wurde. Leider stellte sich heraus, dass dieser Chip von iPhone und Android nicht ohne weiterers lesbar und beschreibbar ist 🥲</p>
 <p>Deswegen haben wir auf die Smart Card zusätzlich einen NTAG215 Chip geklebt, den ihr mit den o.g. Apps beschreiben könnt (z.B. mit Link zu eurem Linkedin-Profil). Es gibt aber wohl <a href="https://stackoverflow.com/questions/28575454/format-read-write-ndef-mifare-1k-card-using-libnfc">Möglichkeiten</a>, den Mifare-Chip im kompatiblen Format NDEF zu beschreiben. Wer herausfindet, wie das geht, bekommt von uns ein lernOS Maskottchen Suri.</p>
