@@ -16,7 +16,7 @@ In der Burg nutzen wir folgende Räumlichkeiten (s.a. [Tagen in Nürnberg](https
 - **Foyer:** Empfang und Garderobe
 - **Eppeleinsaal:** Coworking & Plenum
 - **Räume 6-9:** Breakout-Räume für Sessions und Workshops; die Räume sind im Programm benannt als Auenland, Gondor, Mordor und Rohan (von links nach rechts)
-- **Foyer (1.Stock):** Sofas für private Gespräche und individuelle Teilnahme an Konferenzen
+- **Foyer (1.Stock):** Sofas für private Gespräche und individuelle Teilnahme an Konferenzen. Dort findet ihr auch den Podcast-Tisch und die KI Bibliothek
 
 ## Umgebung
 - [Burggarten](https://www.kaiserburg-nuernberg.de/deutsch/garten/index.htm) - schöner Garten direkt gegenüber von unserem Eingang, gut zum Flanieren geeignet
