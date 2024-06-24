@@ -16,7 +16,7 @@ Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die *
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 <a href="https://logwork.com/countdown-4y9k" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2024-07-02 10:00">loscon24 Countdown</a>
 
-# Alle Infos für die reibungslose Teilnahme
+## Alle Infos für die reibungslose Teilnahme
 1. **WANN** und **WO** geht es los? Am 1.7. gibt es ein informelles [Vorabend-Treffen](eve.md) ab ca. 19:00 Uhr, für das eine kostenlose Anmeldung notwendig ist. Wer mag, kann am 2.7. schon zum [Coworking](coworking.md) in die [Burg](location.md) kommen, das Programm startet um 13:00 Uhr. Bringt euer elektronische Ticket auf dem Smartphone mit (s.a. [FAQ](faq.md)).
 1. Denkt beim **WIE** der [Anreise](getting-there.md) bitte an die [Nachhaltigkeit](sustainability.md). Kommt mit der Bahn, bildet Fahr- und Wohngemeinschaften. Für die Bahn haben wir Euch extra ein günstiges Eventticket organisiert.
 1. Es gibt ein paar Dinge, die ihr [mitbringen](to-bring.md) solltet. Dazu gehören auf jeden Fall ein eigenes Endgerät (Session Owner Laptop, sonst reicht auch Smartphone, Tablet) und ein Headset/Kabelmikro für den hybriden Austausch.
@@ -27,7 +27,7 @@ Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die *
 1. **Be excellent to each other.** Seit diesem Jahr unterstützt die lernOS Community den [Berlin Code of Conduct](https://berlincodeofconduct.org/de/). Dadurch wollen wir eine vielfältige Gemeinschaft fördern, in der sich jeder mit den eigenen Beiträgen sicher fühlen kann.
 1. Bei allen **offenen Fragen** kannst Du Dich an das [Orga-Team](orga-team.md) wenden ([Email](mailto:loscon@lernos.org)) oder in den Kanal #infodesk posten (erst zur Veranstaltung dauerhaft besetzt, vorher kann es etwas dauern).
 
-# Programm
+## Programm
 Als Multiformat-Event wird die lernOS Convention wieder ein vielfältiges Angebot an <a href="https://pretalx.com/loscon24/schedule/" target="_blank">Programmpunkten</a> bieten:
 
 1. **Impulsvorträge (20'')** zum [Leitthema der Veranstaltung](https://cogneon.de/2024/05/18/generative-ki-als-wissensgefaehrte-das-thema-der-lernos-convention-2024/)
@@ -39,7 +39,7 @@ Als Multiformat-Event wird die lernOS Convention wieder ein vielfältiges Angebo
 1. **Flanieren** mit guten Gesprächen im [Burggarten der Kaiserburg](https://www.schloesser.bayern.de/deutsch/garten/objekte/nbg_burg.htm)
 1. **Abendprogramm** mit Musik und Prompt Battle ([Beispiel](https://www.youtube.com/watch?v=c8oRlMp-XdE)), bei dem sich 8 Personen im Prompten messen können
 
-# Wichtige Termine
+## Wichtige Termine
 
 - **19.01.:** Golive Website [cogneon.de/loscon24](https://cogneon.de/loscon24) und Ticketshop
 - **26.01.:** Orga-Team Call for Participation (13:00 - 14:00 Uhr, Info-Termin für alle, die mit dem Gedanken spielen, in der Orga mitzuhelfen)
@@ -55,7 +55,7 @@ Als Multiformat-Event wird die lernOS Convention wieder ein vielfältiges Angebo
 - **02.-03.07.:** [lernOS Convention 2024](https://cogneon.de/loscon24)
 - **12.07.:** loscon24 Retro des [Orga-Teams](orga-team.md) (10:00 - 11:00 Uhr)
 
-# Eindrücke der loscon23
+## Eindrücke der loscon23
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W0UaN3bcmXc?si=ObdDokULBMWcYWjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
