@@ -27,18 +27,6 @@ Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die *
 1. **Be excellent to each other.** Seit diesem Jahr unterstützt die lernOS Community den [Berlin Code of Conduct](https://berlincodeofconduct.org/de/). Dadurch wollen wir eine vielfältige Gemeinschaft fördern, in der sich jeder mit den eigenen Beiträgen sicher fühlen kann.
 1. Bei allen **offenen Fragen** kannst Du Dich an das [Orga-Team](orga-team.md) wenden ([Email](mailto:loscon@lernos.org)) oder in den Kanal #infodesk posten (erst zur Veranstaltung dauerhaft besetzt, vorher kann es etwas dauern).
 
-## Programm
-Als Multiformat-Event wird die lernOS Convention wieder ein vielfältiges Angebot an <a href="https://pretalx.com/loscon24/schedule/" target="_blank">Programmpunkten</a> bieten:
-
-1. **Impulsvorträge (20'')** zum [Leitthema der Veranstaltung](https://cogneon.de/2024/05/18/generative-ki-als-wissensgefaehrte-das-thema-der-lernos-convention-2024/)
-1. **Lightning Talks (5'')** mit den wichtisten Erkenntnissen aus dem [lernOS KI MOOC](http://localhost:8000/kimooc24/)
-1. Viel Raum für **Vernetzung und Austausch**, vor Ort und online
-1. Format [Barcamp](https://de.wikipedia.org/wiki/Barcamp) an Tag 2 mit 4 Tracks x 4 **Sessions** (45'')
-1. **Podcast-Tisch** zum Erlernen von Podcasting und zur Aufnahme von Episoden (s.a. [lernOS Podcast Leitfaden](https://cogneon.github.io/lernos-podcasting/de/))
-1. **Vernetzungsteische**, damit sich auch Neueinsteiger:innen schnell in die Community eingebunden fühlen
-1. **Flanieren** mit guten Gesprächen im [Burggarten der Kaiserburg](https://www.schloesser.bayern.de/deutsch/garten/objekte/nbg_burg.htm)
-1. **Abendprogramm** mit Musik und Prompt Battle ([Beispiel](https://www.youtube.com/watch?v=c8oRlMp-XdE)), bei dem sich 8 Personen im Prompten messen können
-
 ## Wichtige Termine
 
 - **19.01.:** Golive Website [cogneon.de/loscon24](https://cogneon.de/loscon24) und Ticketshop
