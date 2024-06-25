@@ -14,6 +14,7 @@ Das Orga-Team hat ab dem 02.02.2024 einen **wöchentlichen Orga-Call** jeweils *
 1. [Anke Schiffer-Chollet](https://www.linkedin.com/in/anke-schiffer-chollet/)
 1. [Benedikt Scheerer](https://www.linkedin.com/in/benedikt-scheerer-6020ba18/)
 1. [Christian Kaiser](https://www.linkedin.com/in/christian-kaiser-datev/)
+1. [Doris Schuppe](https://www.linkedin.com/in/doschu/)
 1. [Frank Gerich](https://www.linkedin.com/in/frank-gerich/)
 1. [Hans Gaertner](https://www.linkedin.com/in/hgaertner/)
 1. [Manuel Illi](https://www.linkedin.com/in/manuel-illi/)
