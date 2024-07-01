@@ -6,11 +6,15 @@ Hier sammeln wir die Antworten auf häufig gestellte Fragen (Frequently Asked Qu
 
 ### Was brauche ich zum Check-in vor Ort in Nürnberg
 
-Du brauchst Dein elektronische Ticket mit dem QR-Code zum einscannen. Damit es am Einlass schnell geht, speichere Dein Ticket am besten gleich in der Wallet deines Smartphones, dann geht es schnell am Einlass (#SaveTreesDontPrint).
+Du brauchst Dein elektronisches Ticket mit dem QR-Code zum einscannen. Damit es am Einlass schnell geht, speichere Dein Ticket am besten gleich in der Wallet deines Smartphones, dann geht es schnell am Einlass (#SaveTreesDontPrint).
+
+### Was brauche ich zum digitalen Check-in?
+
+In den letzten Mails hast Du jeweils auch den Einladungslink für den eigenen Discord server der #loscon24 bekommen. Wenn Du dem beigetreten bist, findest Du im Kanal „#🗓-programm“ (in der Rubrik „Allgemein/General“) alle notwendigen Zugangsdaten für die gemeinsamen teams Sitzungen sowie den Link zum Programm. 
 
 ### Wo finde ich mein elektronisches Ticket?
 
-Das Ticket wurde dir nach der Bestellung zugesand. An allen Infomails zur Veranstaltung befindet sich ein Link zum Ticket unten an der E-Mail.
+Das Ticket wurde dir nach der Bestellung zugesandt. An allen Infomails zur Veranstaltung befindet sich ein Link zum Ticket unten an der E-Mail.
 
 ### Ich habe die Email mit meinem Ticket nicht mehr, kann ich die nochmal erhalten?
 
@@ -18,7 +22,7 @@ Na klar, einfach [im Ticketshop](https://pretix.eu/cogneon/loscon24/) auf *Link 
 
 ### Was erhalte ich beim Checking?
 
-Du erhälst ein Lanyard, die lernOS Smart Card als Namensschild, den loscon24 Pin (den brauchst Du zum Reinkommen) und eine Kartenhülle, falls Du keine mitgebracht hast.
+Du erhältst ein Lanyard, die lernOS Smart Card als Namensschild, den loscon24 Pin (den brauchst Du zum Reinkommen) und eine Kartenhülle, falls Du keine mitgebracht hast. Online Teilnehmys haben die Materialien bereits zusammen mit dem gedruckten lernOS KI-Leitfaden in den letzten Tagen per Post nach Hause bekommen.
 
 ### Gibt es eine Garderobe und Möglichkeit zum Abstellen von Koffern?
 
@@ -48,13 +52,13 @@ Nein, das Coworking ist komplett selbstorganisiert. Idee war, dass sich z.B. Lea
 
 ### Gibt es ein Vorabend-Programm?
 
-Ja, wir Treffen uns beim Opening des [Nürnberg Digital Festivals](https://nuernberg.digital). Dafür ist ein kostenfreie Anmeldung notwendig.
+Ja, wir treffen uns beim Opening des [Nürnberg Digital Festivals](https://nuernberg.digital). Dafür ist eine kostenfreie Anmeldung notwendig.
 
 ### Toolset der Veranstaltung
 
 ### Wann und wie erhalte ich die Einwahldaten?
 
-Rechtzeitig vor der Veranstaltung erhalten alle angemeldeten Teilnehmer:innen eine Einladung auf den loscon24 Discord Server. Dort im Kanal *#programm* befinden sich die Teams-Einwahldaten. Die Teams-Räume sind so benannt, wie die Räume im Programm.
+Schon in den letzten Wochen haben alle angemeldeten Teilnehmer:innen eine Einladung auf den loscon24 Discord Server erhalten. Dort im Kanal *#programm* befinden sich die Teams-Einwahldaten. Die Teams-Räume sind so benannt, wie die Räume im Programm.
 
 ### Brauche ich ein Microsoft-365-Konto zur Einwahl in Teams?
 
