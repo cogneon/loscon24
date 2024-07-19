@@ -11,7 +11,7 @@ Auf diesen **Infoseiten** findet ihr alle Informationen zur Veranstaltung. Die *
 <button type="button"><a href="https://pretalx.com/loscon24/schedule/" target="_blank">Programm</a></button> <button type="button"><a href="https://pretix.eu/cogneon/loscon24/" target="_blank">Tickets</a></button> <button type="button"><a href="https://cogneon.de/2024/05/18/generative-ki-als-wissensgefaehrte-das-thema-der-lernos-convention-2024/" target="_blank">Blog zum Leitthema</a></button> <button type="button"><a href="https://chatgpt.com/g/g-HU2NyTzOF-loscon24-chatbot" target="_blank">loscon24 Chatbot</a></button>
 
 !!! Tipp
-    Wenn ihr euch nach dem 25.06. zur loscon24 angemeldet habt oder ihr nicht an der **Vorab-Webkonferenz** teilnehmen konntet, schaut Euch bitte [die Aufzeichnung](pre-call.md) an.
+    Die Aufzeichnungen der Impulse, Lightning Talks und Sessions sind mittlerweile [als Youtube-Playliste verfügbar](https://www.youtube.com/watch?v=-IrLeGh44YU&list=PLsDEDkLIwmRw5AQVfa-6mkLJhdHp3XnMi&pp=gAQBiAQB). **SAVE THE DATE**: die lernOS Convention 2025 findet vom 1.-2. Juli 2025 auf der Kaiserburg Nürnberg und Online statt.
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 <a href="https://logwork.com/countdown-4y9k" class="countdown-timer" data-timezone="Europe/Berlin" data-language="de" data-date="2024-07-02 10:00">loscon24 Countdown</a>
